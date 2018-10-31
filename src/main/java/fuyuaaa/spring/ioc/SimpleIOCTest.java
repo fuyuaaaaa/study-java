@@ -3,6 +3,8 @@ package fuyuaaa.spring.ioc;
 
 import org.junit.jupiter.api.Test;
 
+import java.util.Objects;
+
 /**
  * @author: fuyuaaaaa
  * @description: ioc test
@@ -12,11 +14,11 @@ import org.junit.jupiter.api.Test;
 public class SimpleIOCTest {
     @Test
     public void getBean() throws Exception{
-        String location = SimpleIOC.class.getClassLoader().getResource("fuyuaaa/spring/ioc/ioc.xml").getFile();
+        String location = Objects.requireNonNull(SimpleIOC.class.getClassLoader().getResource("fuyuaaa/spring/ioc/ioc.xml")).getFile();
         SimpleIOC bf = new SimpleIOC(location);
         Wheel wheel = (Wheel) bf.getBean("wheel");
-        System.out.println(wheel);
+        System.out.println(wheel.getSpecification());
         Car car = (Car) bf.getBean("car");
-        System.out.println(car);
+        System.out.println(car.getHeight());
     }
 }
