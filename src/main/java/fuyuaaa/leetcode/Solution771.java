@@ -1,6 +1,5 @@
-package fuyuaaa.suanfa;
+package fuyuaaa.leetcode;
 
-import java.util.ArrayList;
 import java.util.Set;
 import java.util.TreeSet;
 

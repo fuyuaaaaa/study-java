@@ -1,4 +1,4 @@
-package fuyuaaa.suanfa;
+package fuyuaaa.leetcode;
 
 /**
  * @author: fuyuaaaaa
