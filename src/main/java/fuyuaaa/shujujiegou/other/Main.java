@@ -1,7 +1,5 @@
 package fuyuaaa.shujujiegou.other;
 
-import org.omg.PortableInterceptor.INACTIVE;
-
 public class Main {
 
     public static void main(String[] args) {
