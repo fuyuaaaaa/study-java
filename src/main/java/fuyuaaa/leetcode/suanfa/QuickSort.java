@@ -39,10 +39,33 @@ public class QuickSort {
 
     public static void main(String[] args) {
         QuickSort quickSort = new QuickSort();
-        int a[] = {1, 3, 4, 1, 3, 2, 5, 1, 68, 41, 5, 48, 8};
-        quickSort.quickSort(a, 0, a.length - 1);
+        int a[] = {15, 3, 4, 1, 3, 2, 5, 1, 68, 41, 5, 48, 8};
+        quickSort.quickSort2(a, 0, a.length - 1);
         for (int i = 0; i < a.length; i++) {
             System.out.println(a[i]);
         }
+    }
+
+    public void quickSort2(int a[], int left, int right) {
+        if (left < right) {
+            int mid = quick2(a, left, right);
+            quickSort2(a, left, mid - 1);
+            quickSort2(a, mid + 1, right);
+        }
+    }
+
+    public int quick2(int a[], int left, int right) {
+        int x = a[left];
+        while (left < right) {
+            while (left < right && a[right] >= x) {
+                right--;
+            }
+            swap(a, left, right);
+            while (left < right && a[left] <= x) {
+                left++;
+            }
+            swap(a, left, right);
+        }
+        return left;
     }
 }
