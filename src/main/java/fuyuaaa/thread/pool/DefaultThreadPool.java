@@ -26,7 +26,7 @@ public class DefaultThreadPool<Job extends Runnable> implements ThreadPool<Job> 
     private final LinkedList<Job> jobs = new LinkedList<>();
 
     //工作者列表
-    private final List<DefaultThreadPool.Worker> workers = Collections.synchronizedList(new ArrayList<>());
+    private final List<Worker> workers = Collections.synchronizedList(new ArrayList<>());
 
     //工作者线程的数量
     private int workerNum = DEFAULT_WORKER_NUMBERS;
