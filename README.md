@@ -1,8 +1,6 @@
 # study-java
 一些学习时敲的代码
 
-develop
-
-feature A
+develop/feature A
 
 feature A test
