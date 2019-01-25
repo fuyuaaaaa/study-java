@@ -2,6 +2,7 @@ package fuyuaaa.thread.redislock;
 
 import redis.clients.jedis.Jedis;
 
+import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
@@ -13,16 +14,36 @@ import java.util.concurrent.locks.Lock;
 public abstract class RedisLock implements Lock {
     Jedis jedis;
     String lockKey;
+    String lockValue;
+    boolean isOpenFlushLeaseTime = false;
 
-    RedisLock(Jedis jedis, String lockKey) {
+    RedisLock(Jedis jedis, String lockKey, String lockValue) {
         this.jedis = jedis;
         this.lockKey = lockKey;
+        this.lockValue = lockValue;
     }
 
 
-    public void sleepBySencond(int sencond) {
+    void openFlushLeaseTime() {
+        new Thread(() -> {
+            while (isOpenFlushLeaseTime) {
+                System.out.println("执行延迟失效时间中...");
+
+                String checkAndExpireScript = "if redis.call('get', KEYS[1]) == ARGV[1] then " +
+                        "return redis.call('expire',KEYS[1],ARGV[2]) " +
+                        "else " +
+                        "return 0 end";
+                jedis.eval(checkAndExpireScript, 1, lockKey, lockValue, "30");
+
+                sleepBySecond(10);
+
+            }
+        }).start();
+    }
+
+    void sleepBySecond(int second) {
         try {
-            Thread.sleep(sencond * 1000);
+            Thread.sleep(second * 1000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
