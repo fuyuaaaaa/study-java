@@ -1,8 +1,3 @@
-### 待实现
-  
-  - 可重入锁
-  
-
 ### 分布式锁
 
 分布式锁，是指在分布式的部署环境下，通过锁机制让多客户端互斥地对共享进程进行访问。
@@ -41,9 +36,9 @@
 在释放锁之前先判断
 
 ```java
-        if (lockValue.equals(jedis.get(lockKey))) {
-            jedis.del(lockKey);
-        }
+    if (lockValue.equals(jedis.get(lockKey))) {
+        jedis.del(lockKey);
+    }
 ```
 代码分析：先获取再判断后删除的操作不属于原子操作，并发时存在问题。
 解决方法：通过Lua脚本合并这三个操作
@@ -57,6 +52,29 @@
 通过`jedis.eval()`执行脚本
 ```java
 jedis.eval(script, 1, lockKey, lockValue);
+```
+OR
+```java
+jedis.eval(delScript, Collections.singletonList(lockKey), Collections.singletonList(lockValue))
+```
+
+#### 刷新锁的过期时间
+通过Lua脚本进行原子操作
+```java
+    if redis.call('get', KEYS[1]) == ARGV[1] then
+        return redis.call('expire',KEYS[1],ARGV[2])
+    else 
+        return 0 end
+```
+通过`jedis.eval()`执行脚本
+```java
+jedis.eval(script, 1, lockKey, lockValue);
+```
+
+#### 可重入锁（不确定理解是否正确）TODO
+将lockValue替换成token，存在ThreadLocal中，在入锁是先进行判断redis中存的token是否与ThreadLocal中的相同。
+```java
+threadLocal.get().eqauls(jedis.get(lockKey))
 ```
 
 #### Redisson的使用
@@ -72,8 +90,8 @@ jedis.eval(script, 1, lockKey, lockValue);
 
 配置文件
 ```java
-redis.node.address=redis://106.14.169.161:6379
-redis.password=Fuyu742423672
+redis.node.address=redis://localhost:6379
+redis.password=***
 
 ```
 
