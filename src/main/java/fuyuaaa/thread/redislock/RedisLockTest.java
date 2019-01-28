@@ -1,6 +1,8 @@
 package fuyuaaa.thread.redislock;
 
+import org.apache.commons.pool2.impl.GenericObjectPoolConfig;
 import redis.clients.jedis.Jedis;
+import redis.clients.jedis.JedisPool;
 
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.ExecutorService;
@@ -17,12 +19,12 @@ public class RedisLockTest {
             new ThreadPoolExecutor(4, 10, 10, TimeUnit.SECONDS, new ArrayBlockingQueue<>(10));
 
     public static void main(String[] args) {
+        JedisPool jedisPool = new JedisPool(
+                new GenericObjectPoolConfig(), "106.14.169.161", 6379, 1000, "Fuyu742423672");
         for (int i = 0; i < 4; i++) {
             EXECUTOR_SERVICE.execute(()->{
-                System.out.println("初始化。。");
-                Jedis jedis = new Jedis("106.14.169.161", 6379);
-                jedis.auth("Fuyu742423672");
-                jedis.connect();
+                System.out.println("初始化..");
+                Jedis jedis = jedisPool.getResource();
                 RedisLock lock = new RedisLock(jedis);
                 String key = "TEST_KEY";
                 lock.lock(key,20,10);
@@ -32,7 +34,7 @@ public class RedisLockTest {
                     e.printStackTrace();
                 }
                 lock.unlock(key);
-                jedis.disconnect();
+                jedis.close();
             });
         }
         EXECUTOR_SERVICE.shutdown();

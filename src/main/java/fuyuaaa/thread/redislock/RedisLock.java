@@ -17,12 +17,14 @@ public class RedisLock {
 
     private boolean isFlushLeaseTime = false;
 
+    public RedisLock() {}
+
     public RedisLock(Jedis jedis) {
         this.jedis = jedis;
     }
 
     public void lock(String key) {
-        lock(key,10,10);
+        lock(key, Integer.MAX_VALUE, 60);
     }
 
     public void lock(String key, Integer waitTime, Integer leaseTime) {
@@ -30,9 +32,7 @@ public class RedisLock {
     }
 
     public boolean tryLock(String key, Integer leaseTime) {
-        String result = jedis.set(key, getToken(), "NX", "EX", leaseTime);
-        System.out.println(result);
-        return "O".equals(result);
+        return tryLock(key, Integer.MAX_VALUE, leaseTime);
     }
 
     public boolean tryLock(String key, Integer waitTime, Integer leaseTime) {
@@ -99,4 +99,9 @@ public class RedisLock {
         }
         return token;
     }
+
+    public void setJedis(Jedis jedis) {
+        this.jedis = jedis;
+    }
+
 }
