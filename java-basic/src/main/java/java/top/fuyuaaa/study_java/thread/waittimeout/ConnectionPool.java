@@ -1,8 +1,7 @@
 package java.top.fuyuaaa.study_java.thread.waittimeout;
 
-import fuyuaaa.shujujiegou.set.LinkedList;
-
 import java.sql.Connection;
+import java.util.LinkedList;
 
 /**
  * @author: fuyuaaaaa

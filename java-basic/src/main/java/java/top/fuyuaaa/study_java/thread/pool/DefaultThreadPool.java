@@ -1,9 +1,8 @@
 package java.top.fuyuaaa.study_java.thread.pool;
 
-import fuyuaaa.shujujiegou.set.LinkedList;
-
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -105,7 +104,7 @@ public class DefaultThreadPool<Job extends Runnable> implements ThreadPool<Job> 
 
     @Override
     public int getJobSize() {
-        return jobs.getSize();
+        return jobs.size();
     }
 
     class Worker implements Runnable {

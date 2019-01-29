@@ -1,8 +1,7 @@
 package java.top.fuyuaaa.study_java.shujujiegou.trie;
 
-import fuyuaaa.shujujiegou.set.BSTSet;
-import fuyuaaa.shujujiegou.set.FileOperation;
-
+import java.top.fuyuaaa.study_java.shujujiegou.set.BSTSet;
+import java.top.fuyuaaa.study_java.shujujiegou.set.FileOperation;
 import java.util.ArrayList;
 
 /**
