@@ -155,13 +155,14 @@ class MyDistributedLockTest {
             new ThreadPoolExecutor(10, 10, 10,
                     TimeUnit.SECONDS, new ArrayBlockingQueue<>(1000),
                     //com.google.guava的ThreadFactoryBuilder
+                    //
                     new ThreadFactoryBuilder().setNameFormat("zk-pool-%d").build());
 
     public static void main(String[] args) {
 
         ZkClient zk = new ZkClient("127.0.0.1:2181", 5 * 10000);
 
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < 10; i++) {
             String name = "thread" + i;
             EXECUTOR_SERVICE.execute(() -> {
                 ZooDistributeLock myDistributedLock = new ZooDistributeLock(zk, name);
