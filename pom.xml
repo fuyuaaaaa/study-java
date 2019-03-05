@@ -23,5 +23,6 @@
         <module>java-basic</module>
         <module>jms-spring</module>
         <module>jms-demo</module>
+        <module>dubbo-demo</module>
     </modules>
 </project>
