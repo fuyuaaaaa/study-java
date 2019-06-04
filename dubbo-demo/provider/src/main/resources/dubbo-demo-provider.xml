@@ -5,15 +5,15 @@
     <!-- provider's application name, used for tracing dependency relationship -->
     <dubbo:application name="demo-provider" />
 
-    <!-- use multicast registry center to export service -->
+    <!-- use multicast registry center to export services -->
     <dubbo:registry address="zookeeper://127.0.0.1:2181" check="false"/>
 
-    <!-- use dubbo protocol to export service on port 20880 -->
+    <!-- use dubbo protocol to export services on port 20880 -->
     <dubbo:protocol name="dubbo" port="20880"/>
 
-    <!-- service implementation, as same as regular local bean -->
+    <!-- services implementation, as same as regular local bean -->
     <bean id="testService" class="top.fuyuaaa.provider.TestServiceImpl"/>
 
-    <!-- declare the service interface to be exported -->
+    <!-- declare the services interface to be exported -->
     <dubbo:service version="1.0" interface="top.fuyuaaa.api.TestService" ref="testService" />
 </beans>

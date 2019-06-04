@@ -11,7 +11,7 @@ public class Consumer {
     public static void main(String[] args) {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(new String[]{"/dubbo-demo-consumer.xml"});
         context.start();
-        TestService testService = (TestService) context.getBean("testService"); // get remote service proxy
+        TestService testService = (TestService) context.getBean("testService"); // get remote services proxy
         while (true) {
             try {
                 Thread.sleep(1000);
