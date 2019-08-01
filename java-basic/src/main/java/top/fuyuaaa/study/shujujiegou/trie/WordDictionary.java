@@ -31,7 +31,7 @@ public class WordDictionary {
         root = new Node();
     }
 
-    /** Adds a word into the data structure. */
+    /** Adds a word into top.fuyuaaa.study.netty.the data structure. */
     public void addWord(String word) {
         Node cur = root;
         for (int i = 0; i < word.length(); i++) {
@@ -43,7 +43,7 @@ public class WordDictionary {
         cur.isWord = true;
     }
 
-    /** Returns if the word is in the data structure. A word could contain the dot character '.' to represent any one letter. */
+    /** Returns if top.fuyuaaa.study.netty.the word is in top.fuyuaaa.study.netty.the data structure. A word could contain top.fuyuaaa.study.netty.the dot character '.' to represent any one letter. */
     public boolean search(String word) {
         return match(root, word, 0);
     }

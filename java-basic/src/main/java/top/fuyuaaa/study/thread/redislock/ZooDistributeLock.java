@@ -44,7 +44,7 @@ public class ZooDistributeLock {
         Thread currentThread = Thread.currentThread();
         LockData lockData = this.threadData.get(currentThread);
         if (lockData == null) {
-            throw new IllegalMonitorStateException("You do not own the lock: " + PARENT_LOCK_PATH);
+            throw new IllegalMonitorStateException("You do not own top.fuyuaaa.study.netty.the lock: " + PARENT_LOCK_PATH);
         } else {
             int newLockCount = lockData.lockCount.decrementAndGet();
             if (newLockCount <= 0) {

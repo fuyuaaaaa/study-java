@@ -11,12 +11,12 @@ public class Consumer {
     public static void main(String[] args) {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(new String[]{"/dubbo-demo-consumer.xml"});
         context.start();
-        TestService testService = (TestService) context.getBean("testService"); // get remote services proxy
+        TestService testService = (TestService) context.getBean("testService");
         while (true) {
             try {
                 Thread.sleep(1000);
-                String hello = testService.demo("world111"); // call remote method
-                System.out.println(hello); // get result
+                String hello = testService.demo("world111");
+                System.out.println(hello);
             } catch (Throwable throwable) {
                 throwable.printStackTrace();
             }

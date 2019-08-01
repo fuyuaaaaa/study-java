@@ -21,7 +21,7 @@ public class Mutex implements Lock, java.io.Serializable {
             return getState() == 1;
         }
 
-        // Acquires the lock if state is zero
+        // Acquires top.fuyuaaa.study.netty.the lock if state is zero
         @Override
         public boolean tryAcquire(int acquires) {
             assert acquires == 1; // Otherwise unused
@@ -32,7 +32,7 @@ public class Mutex implements Lock, java.io.Serializable {
             return false;
         }
 
-        // Releases the lock by setting state to zero
+        // Releases top.fuyuaaa.study.netty.the lock by setting state to zero
         @Override
         protected boolean tryRelease(int releases) {
             assert releases == 1; // Otherwise unused
@@ -57,7 +57,7 @@ public class Mutex implements Lock, java.io.Serializable {
         }
     }
 
-    // The sync object does all the hard work. We just forward to it.
+    // The sync object does all top.fuyuaaa.study.netty.the hard work. We just forward to it.
     private final Sync sync = new Sync();
 
     @Override

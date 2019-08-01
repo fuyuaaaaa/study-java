@@ -6,7 +6,7 @@
     <dubbo:application name="demo-provider" />
 
     <!-- use multicast registry center to export services -->
-    <dubbo:registry address="zookeeper://127.0.0.1:2181" check="false"/>
+    <dubbo:registry address="zookeeper://106.14.169.161:2181" check="false"/>
 
     <!-- use dubbo protocol to export services on port 20880 -->
     <dubbo:protocol name="dubbo" port="20880"/>
@@ -14,6 +14,6 @@
     <!-- services implementation, as same as regular local bean -->
     <bean id="testService" class="top.fuyuaaa.provider.TestServiceImpl"/>
 
-    <!-- declare the services interface to be exported -->
+    <!-- declare top.fuyuaaa.study.netty.the services interface to be exported -->
     <dubbo:service version="1.0" interface="top.fuyuaaa.api.TestService" ref="testService" />
 </beans>

@@ -24,5 +24,6 @@
         <module>jms-spring</module>
         <module>jms-demo</module>
         <module>dubbo-demo</module>
+        <module>springaaa</module>
     </modules>
 </project>

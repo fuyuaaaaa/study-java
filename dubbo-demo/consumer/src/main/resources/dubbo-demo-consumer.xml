@@ -8,9 +8,9 @@
     <dubbo:application name="demo-consumer"/>
 
     <!-- use multicast registry center to discover services -->
-    <dubbo:registry address="zookeeper://127.0.0.1:2181" check="false"/>
+    <dubbo:registry address="zookeeper://106.14.169.161:2181" check="false"/>
 
-    <!-- generate proxy for the remote services, then demoService can be used in the same way as the
+    <!-- generate proxy for top.fuyuaaa.study.netty.the remote services, then demoService can be used in top.fuyuaaa.study.netty.the same way as top.fuyuaaa.study.netty.the
     local regular interface -->
     <!--<dubbo:reference id="demoService" check="false" interface="top.fuyuaaa.api.TestService"/>-->
     <dubbo:reference version="1.0" id="testService" check="false" interface="top.fuyuaaa.api.TestService"/>

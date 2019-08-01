@@ -36,7 +36,7 @@ public class GreenhouseScheduler {
     class LightOn implements Runnable {
         public void run() {
             // Put hardware control code here to
-            // physically turn on the light.
+            // physically turn on top.fuyuaaa.study.netty.the light.
             System.out.println("Turning on lights");
             light = true;
         }
@@ -45,7 +45,7 @@ public class GreenhouseScheduler {
     class LightOff implements Runnable {
         public void run() {
             // Put hardware control code here to
-            // physically turn off the light.
+            // physically turn off top.fuyuaaa.study.netty.the light.
             System.out.println("Turning off lights");
             light = false;
         }
@@ -92,7 +92,7 @@ public class GreenhouseScheduler {
             System.out.println("Terminating");
             scheduler.shutdownNow();
             // Must start a separate task to do this job,
-            // since the scheduler has been shut down:
+            // since top.fuyuaaa.study.netty.the scheduler has been shut down:
             new Thread() {
                 public void run() {
                     for(DataPoint d : data)
@@ -122,7 +122,7 @@ public class GreenhouseScheduler {
     }
 
     private Calendar lastTime = Calendar.getInstance();
-    { // Adjust date to the half hour
+    { // Adjust date to top.fuyuaaa.study.netty.the half hour
         lastTime.set(Calendar.MINUTE, 30);
         lastTime.set(Calendar.SECOND, 00);
     }
@@ -138,9 +138,9 @@ public class GreenhouseScheduler {
         public void run() {
             System.out.println("Collecting data");
             synchronized(GreenhouseScheduler.this) {
-                // Pretend the interval is longer than it is:
+                // Pretend top.fuyuaaa.study.netty.the interval is longer than it is:
                 lastTime.set(Calendar.MINUTE,lastTime.get(Calendar.MINUTE) + 30);
-                // One in 5 chances of reversing the direction:
+                // One in 5 chances of reversing top.fuyuaaa.study.netty.the direction:
                 if(rand.nextInt(5) == 4)
                     tempDirection = -tempDirection;
                 // Store previous value:
@@ -149,7 +149,7 @@ public class GreenhouseScheduler {
                     humidityDirection = -humidityDirection;
                 lastHumidity = lastHumidity + humidityDirection * rand.nextFloat();
                 // Calendar must be cloned, otherwise all
-                // DataPoints hold references to the same lastTime.
+                // DataPoints hold references to top.fuyuaaa.study.netty.the same lastTime.
                 // For a basic object like Calendar, clone() is OK.
                 data.add(new DataPoint((Calendar)lastTime.clone(),lastTemp, lastHumidity));
             }
