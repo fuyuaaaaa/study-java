@@ -25,5 +25,6 @@
         <module>jms-demo</module>
         <module>dubbo-demo</module>
         <module>springaaa</module>
+        <module>sharding-sphere</module>
     </modules>
 </project>
