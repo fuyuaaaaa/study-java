@@ -26,5 +26,6 @@
         <module>dubbo-demo</module>
         <module>springaaa</module>
         <module>sharding-sphere</module>
+        <module>springboot-rabbitmq</module>
     </modules>
 </project>
