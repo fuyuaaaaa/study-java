@@ -1,4 +1,4 @@
-package top.fuyuaaa.study.mq.routing;
+package top.fuyuaaa.study.mq.topic;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
@@ -11,9 +11,9 @@ import com.rabbitmq.client.DeliverCallback;
  * @create : 2019-08-07 16:29
  */
 @SuppressWarnings("all")
-public class DirectLogReceiver {
+public class TopicLogReceiver {
 
-    private static final String EXCHANGE_NAME = "direct_logs";
+    private static final String EXCHANGE_NAME = "topic_logs";
 
     public static void main(String[] argv) throws Exception {
         ConnectionFactory factory = new ConnectionFactory();
@@ -21,13 +21,9 @@ public class DirectLogReceiver {
         Connection connection = factory.newConnection();
         Channel channel = connection.createChannel();
 
-        channel.exchangeDeclare(EXCHANGE_NAME, "direct");
-        //Actively declare a server-named exclusive, auto delete, non-durable queue.
+        channel.exchangeDeclare(EXCHANGE_NAME, "topic");
         String queueName = channel.queueDeclare().getQueue();
-
-        channel.queueBind(queueName, EXCHANGE_NAME, "info");
-        channel.queueBind(queueName, EXCHANGE_NAME, "warn");
-        channel.queueBind(queueName, EXCHANGE_NAME, "error");
+        channel.queueBind(queueName, EXCHANGE_NAME, "kern.*");
 
         System.out.println(" [*] Waiting for messages. To exit press CTRL+C");
 
@@ -39,5 +35,4 @@ public class DirectLogReceiver {
         channel.basicConsume(queueName, true, deliverCallback, consumerTag -> {
         });
     }
-
 }
