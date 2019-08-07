@@ -4,3 +4,4 @@
 - https://www.rabbitmq.com/tutorials/tutorial-three-java.html
 - https://www.rabbitmq.com/tutorials/tutorial-four-java.html
 - https://www.rabbitmq.com/tutorials/tutorial-five-java.html
+- https://www.rabbitmq.com/tutorials/tutorial-six-java.html
