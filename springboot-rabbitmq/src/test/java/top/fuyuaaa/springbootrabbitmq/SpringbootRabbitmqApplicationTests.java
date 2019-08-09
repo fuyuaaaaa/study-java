@@ -22,4 +22,10 @@ public class SpringbootRabbitmqApplicationTests {
         System.in.read();
     }
 
+    @Autowired
+    top.fuyuaaa.springbootrabbitmq.mq.Test test;
+    @Test
+    public void test2() {
+        test.test();
+    }
 }
