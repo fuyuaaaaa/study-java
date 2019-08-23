@@ -1,5 +1,7 @@
 package top.fuyuaaa.study.shujujiegou.tree.bst;
 
+import lombok.Data;
+
 /**
  * @description :  binary search tree
  * @author : fuyuaaa
@@ -7,6 +9,7 @@ package top.fuyuaaa.study.shujujiegou.tree.bst;
  */
 public class BST<E extends Comparable<E>> {
 
+    @Data
     private class Node {
 
         private E e;
@@ -196,8 +199,8 @@ public class BST<E extends Comparable<E>> {
         Integer[] array = {8, 3, 10, 1, 6, 14, 4, 7, 13};
         bst.addArray(array);
         bst.midOrder();
+        System.out.println("\n"+bst.search(6));
         bst.remove(3);
-        System.out.println();
         bst.midOrder();
     }
 }
