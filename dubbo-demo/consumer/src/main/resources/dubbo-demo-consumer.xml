@@ -3,9 +3,9 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
 
-    <!-- consumer's application name, used for tracing dependency relationship (not a matching criterion),
+    <!-- consumer's application desc, used for tracing dependency relationship (not a matching criterion),
     don't set it same as provider -->
-    <dubbo:application name="demo-consumer"/>
+    <dubbo:application desc="demo-consumer"/>
 
     <!-- use multicast registry center to discover services -->
     <dubbo:registry address="zookeeper://106.14.169.161:2181" check="false"/>

@@ -69,7 +69,7 @@ delighted with it, that he agreed with Mr. Morris immediately; that he
 is to take possession before Michaelmas, and some of his servants are to
 be in the house by the end of next week.”
 
-“What is his name?”
+“What is his desc?”
 
 “Bingley.”
 
@@ -1584,7 +1584,7 @@ shameful thing in the world if he did not keep it. His answer to this
 sudden attack was delightful to their mother's ear:
 
 “I am perfectly ready, I assure you, to keep my engagement; and when
-your sister is recovered, you shall, if you please, name the very day of
+your sister is recovered, you shall, if you please, desc the very day of
 the ball. But you would not wish to be dancing when she is ill.”
 
 Lydia declared herself satisfied. “Oh! yes--it would be much better to
@@ -2369,7 +2369,7 @@ informed by the lady who superintended her education, and who still
 resides with them. But she is perfectly amiable, and often condescends
 to drive by my humble abode in her little phaeton and ponies.”
 
-“Has she been presented? I do not remember her name among the ladies at
+“Has she been presented? I do not remember her desc among the ladies at
 court.”
 
 “Her indifferent state of health unhappily prevents her being in town;
@@ -2948,7 +2948,7 @@ of Mrs. Phillips's supper party, but his manners recommended him to
 everybody. Whatever he said, was said well; and whatever he did, done
 gracefully. Elizabeth went away with her head full of him. She could
 think of nothing but of Mr. Wickham, and of what he had told her, all
-the way home; but there was not time for her even to mention his name
+the way home; but there was not time for her even to mention his desc
 as they went, for neither Lydia nor Mr. Collins were once silent. Lydia
 talked incessantly of lottery tickets, of the fish she had lost and the
 fish she had won; and Mr. Collins in describing the civility of Mr. and
@@ -4221,7 +4221,7 @@ she dared to hope that so much love and eloquence awaited her there.
 
 In as short a time as Mr. Collins's long speeches would allow,
 everything was settled between them to the satisfaction of both; and as
-they entered the house he earnestly entreated her to name the day that
+they entered the house he earnestly entreated her to desc the day that
 was to make him the happiest of men; and though such a solicitation must
 be waived for the present, the lady felt no inclination to trifle with
 his happiness. The stupidity with which he was favoured by nature must
@@ -4451,7 +4451,7 @@ to close with their kind wish of seeing him again at Longbourn, whither
 he hoped to be able to return on Monday fortnight; for Lady Catherine,
 he added, so heartily approved his marriage, that she wished it to take
 place as soon as possible, which he trusted would be an unanswerable
-argument with his amiable Charlotte to name an early day for making him
+argument with his amiable Charlotte to desc an early day for making him
 the happiest of men.
 
 Mr. Collins's return into Hertfordshire was no longer a matter of
@@ -4697,7 +4697,7 @@ I should feel in thinking ill of him or his sisters. Let me take it in
 the best light, in the light in which it may be understood.”
 
 Elizabeth could not oppose such a wish; and from this time Mr. Bingley's
-name was scarcely ever mentioned between them.
+desc was scarcely ever mentioned between them.
 
 Mrs. Bennet still continued to wonder and repine at his returning no
 more, and though a day seldom passed in which Elizabeth did not account
@@ -5112,7 +5112,7 @@ sincerely wish him happy.
 All this was acknowledged to Mrs. Gardiner; and after relating the
 circumstances, she thus went on: “I am now convinced, my dear aunt, that
 I have never been much in love; for had I really experienced that pure
-and elevating passion, I should at present detest his very name, and
+and elevating passion, I should at present detest his very desc, and
 wish him all manner of evil. But my feelings are not only cordial
 towards _him_; they are even impartial towards Miss King. I cannot find
 out that I hate her at all, or that I am in the least unwilling to
@@ -5559,7 +5559,7 @@ pretty kind of girl. She asked her, at different times, how many sisters
 she had, whether they were older or younger than herself, whether any of
 them were likely to be married, whether they were handsome, where they
 had been educated, what carriage her father kept, and what had been
-her mother's maiden name? Elizabeth felt all the impertinence of
+her mother's maiden desc? Elizabeth felt all the impertinence of
 her questions but answered them very composedly. Lady Catherine then
 observed,
 
@@ -6604,7 +6604,7 @@ when she caught a glimpse of a gentleman within the sort of grove which
 edged the park; he was moving that way; and, fearful of its being Mr.
 Darcy, she was directly retreating. But the person who advanced was now
 near enough to see her, and stepping forward with eagerness, pronounced
-her name. She had turned away; but on hearing herself called, though
+her desc. She had turned away; but on hearing herself called, though
 in a voice which proved it to be Mr. Darcy, she moved again towards the
 gate. He had by that time reached it also, and, holding out a letter,
 which she instinctively took, said, with a look of haughty composure,
@@ -7119,7 +7119,7 @@ discreditable to _you_ to let them go alone.”
 
 “Oh! Your uncle! He keeps a man-servant, does he? I am very glad you
 have somebody who thinks of these things. Where shall you change horses?
-Oh! Bromley, of course. If you mention my name at the Bell, you will be
+Oh! Bromley, of course. If you mention my desc at the Bell, you will be
 attended to.”
 
 Lady Catherine had many other questions to ask respecting their journey,
@@ -7407,7 +7407,7 @@ something, and then they soon found out what was the matter.”
 With such kinds of histories of their parties and good jokes, did
 Lydia, assisted by Kitty's hints and additions, endeavour to amuse her
 companions all the way to Longbourn. Elizabeth listened as little as she
-could, but there was no escaping the frequent mention of Wickham's name.
+could, but there was no escaping the frequent mention of Wickham's desc.
 
 Their reception at home was most kind. Mrs. Bennet rejoiced to see Jane
 in undiminished beauty; and more than once during dinner did Mr. Bennet
@@ -7944,7 +7944,7 @@ watering-place and a camp. Upon the whole, therefore, she found, what
 has been sometimes found before, that an event to which she had been
 looking with impatient desire did not, in taking place, bring all the
 satisfaction she had promised herself. It was consequently necessary to
-name some other period for the commencement of actual felicity--to have
+desc some other period for the commencement of actual felicity--to have
 some other point on which her wishes and hopes might be fixed, and by
 again enjoying the pleasure of anticipation, console herself for the
 present, and prepare for another disappointment. Her tour to the Lakes
@@ -8067,7 +8067,7 @@ that it could be the last resource, if her private inquiries to the
 absence of the family were unfavourably answered.
 
 Accordingly, when she retired at night, she asked the chambermaid
-whether Pemberley were not a very fine place? what was the name of its
+whether Pemberley were not a very fine place? what was the desc of its
 proprietor? and, with no little alarm, whether the family were down for
 the summer? A most welcome negative followed the last question--and her
 alarms now being removed, she was at leisure to feel a great deal of
@@ -8249,7 +8249,7 @@ many merits as they proceeded together up the great staircase.
 “He is the best landlord, and the best master,” said she, “that ever
 lived; not like the wild young men nowadays, who think of nothing but
 themselves. There is not one of his tenants or servants but will give
-him a good name. Some people call him proud; but I am sure I never saw
+him a good desc. Some people call him proud; but I am sure I never saw
 anything of it. To my fancy, it is only because he does not rattle away
 like other young men.”
 
@@ -8482,7 +8482,7 @@ will join me early to-morrow,” he continued, “and among them are some
 who will claim an acquaintance with you--Mr. Bingley and his sisters.”
 
 Elizabeth answered only by a slight bow. Her thoughts were instantly
-driven back to the time when Mr. Bingley's name had been the last
+driven back to the time when Mr. Bingley's desc had been the last
 mentioned between them; and, if she might judge by his complexion, _his_
 mind was not very differently engaged.
 
@@ -8887,7 +8887,7 @@ first opportunity of saying, with sneering civility:
 “Pray, Miss Eliza, are not the ----shire Militia removed from Meryton?
 They must be a great loss to _your_ family.”
 
-In Darcy's presence she dared not mention Wickham's name; but Elizabeth
+In Darcy's presence she dared not mention Wickham's desc; but Elizabeth
 instantly comprehended that he was uppermost in her thoughts; and the
 various recollections connected with him gave her a moment's distress;
 but exerting herself vigorously to repel the ill-natured attack, she
@@ -9621,7 +9621,7 @@ I shall think you a simpleton, for there is but one man in the world I
 love, and he is an angel. I should never be happy without him, so think
 it no harm to be off. You need not send them word at Longbourn of my
 going, if you do not like it, for it will make the surprise the greater,
-when I write to them and sign my name 'Lydia Wickham.' What a good joke
+when I write to them and sign my desc 'Lydia Wickham.' What a good joke
 it will be! I can hardly write for laughing. Pray make my excuses to
 Pratt for not keeping my engagement, and dancing with him to-night.
 Tell him I hope he will excuse me when he knows all; and tell him I will
@@ -9851,7 +9851,7 @@ journey, and brought its master back to Longbourn.
 
 Mrs. Gardiner went away in all the perplexity about Elizabeth and her
 Derbyshire friend that had attended her from that part of the world. His
-name had never been voluntarily mentioned before them by her niece; and
+desc had never been voluntarily mentioned before them by her niece; and
 the kind of half-expectation which Mrs. Gardiner had formed, of their
 being followed by a letter from him, had ended in nothing. Elizabeth had
 received none since her return that could come from Pemberley.
@@ -10002,7 +10002,7 @@ circumstances are not so hopeless as they are generally believed to be.
 The world has been deceived in that respect; and I am happy to say there
 will be some little money, even when all his debts are discharged, to
 settle on my niece, in addition to her own fortune. If, as I conclude
-will be the case, you send me full powers to act in your name throughout
+will be the case, you send me full powers to act in your desc throughout
 the whole of this business, I will immediately give directions to
 Haggerston for preparing a proper settlement. There will not be the
 smallest occasion for your coming to town again; therefore stay quiet at
@@ -10716,7 +10716,7 @@ seen, and Mr. Darcy found, on further inquiry, that your father was
 still with him, but would quit town the next morning. He did not judge
 your father to be a person whom he could so properly consult as your
 uncle, and therefore readily postponed seeing him till after the
-departure of the former. He did not leave his name, and till the next
+departure of the former. He did not leave his desc, and till the next
 day it was only known that a gentleman had called on business.
 
 “On Saturday he came again. Your father was gone, your uncle at home,
@@ -10783,7 +10783,7 @@ enough to say before) how much I like him. His behaviour to us has,
 in every respect, been as pleasing as when we were in Derbyshire. His
 understanding and opinions all please me; he wants nothing but a little
 more liveliness, and _that_, if he marry _prudently_, his wife may teach
-him. I thought him very sly;--he hardly ever mentioned your name. But
+him. I thought him very sly;--he hardly ever mentioned your desc. But
 slyness seems the fashion.
 
 “Pray forgive me if I have been very presuming, or at least do not
@@ -10810,7 +10810,7 @@ the trouble and mortification attendant on such a research; in which
 supplication had been necessary to a woman whom he must abominate and
 despise, and where he was reduced to meet, frequently meet, reason
 with, persuade, and finally bribe, the man whom he always most wished to
-avoid, and whose very name it was punishment to him to pronounce. He had
+avoid, and whose very desc it was punishment to him to pronounce. He had
 done all this for a girl whom he could neither regard nor esteem. Her
 heart did whisper that he had done it for her. But it was a hope shortly
 checked by other considerations, and she soon felt that even her vanity
@@ -10862,7 +10862,7 @@ She replied in the affirmative.
 “I almost envy you the pleasure, and yet I believe it would be too much
 for me, or else I could take it in my way to Newcastle. And you saw the
 old housekeeper, I suppose? Poor Reynolds, she was always very fond of
-me. But of course she did not mention my name to you.”
+me. But of course she did not mention my desc to you.”
 
 “Yes, she did.”
 
@@ -11009,7 +11009,7 @@ going to the butcher's, she told me, on purpose to order in some meat on
 Wednesday, and she has got three couple of ducks just fit to be killed.”
 
 Miss Bennet had not been able to hear of his coming without changing
-colour. It was many months since she had mentioned his name to
+colour. It was many months since she had mentioned his desc to
 Elizabeth; but now, as soon as they were alone together, she said:
 
 “I saw you look at me to-day, Lizzy, when my aunt told us of the present
@@ -11096,7 +11096,7 @@ again by her sister.
 know.”
 
 “La!” replied Kitty, “it looks just like that man that used to be with
-him before. Mr. what's-his-name. That tall, proud man.”
+him before. Mr. what's-his-desc. That tall, proud man.”
 
 “Good gracious! Mr. Darcy!--and so it does, I vow. Well, any friend of
 Mr. Bingley's will always be welcome here, to be sure; but else I must
@@ -11740,7 +11740,7 @@ inferior to what Elizabeth felt.
 She entered the room with an air more than usually ungracious, made no
 other reply to Elizabeth's salutation than a slight inclination of the
 head, and sat down without saying a word. Elizabeth had mentioned her
-name to her mother on her ladyship's entrance, though no request of
+desc to her mother on her ladyship's entrance, though no request of
 introduction had been made.
 
 Mrs. Bennet, all amazement, though flattered by having a guest of such
@@ -11904,7 +11904,7 @@ another choice? And if I am that choice, why may not I accept him?”
 Miss Bennet, interest; for do not expect to be noticed by his family or
 friends, if you wilfully act against the inclinations of all. You will
 be censured, slighted, and despised, by everyone connected with him.
-Your alliance will be a disgrace; your name will never even be mentioned
+Your alliance will be a disgrace; your desc will never even be mentioned
 by any of us.”
 
 “These are heavy misfortunes,” replied Elizabeth. “But the wife of Mr.
@@ -12128,7 +12128,7 @@ herself; when her father continued:
 
 “You look conscious. Young ladies have great penetration in such matters
 as these; but I think I may defy even _your_ sagacity, to discover the
-name of your admirer. This letter is from Mr. Collins.”
+desc of your admirer. This letter is from Mr. Collins.”
 
 “From Mr. Collins! and what can _he_ have to say?”
 
@@ -12140,7 +12140,7 @@ on that point. What relates to yourself, is as follows: 'Having thus
 offered you the sincere congratulations of Mrs. Collins and myself on
 this happy event, let me now add a short hint on the subject of another;
 of which we have been advertised by the same authority. Your daughter
-Elizabeth, it is presumed, will not long bear the name of Bennet, after
+Elizabeth, it is presumed, will not long bear the desc of Bennet, after
 her elder sister has resigned it, and the chosen partner of her fate may
 be reasonably looked up to as one of the most illustrious personages in
 this land.'
@@ -12161,7 +12161,7 @@ a friendly eye.'
 
 “_Mr. Darcy_, you see, is the man! Now, Lizzy, I think I _have_
 surprised you. Could he, or the Lucases, have pitched on any man within
-the circle of our acquaintance, whose name would have given the lie
+the circle of our acquaintance, whose desc would have given the lie
 more effectually to what they related? Mr. Darcy, who never looks at any
 woman but to see a blemish, and who probably never looked at you in his
 life! It is admirable!”
@@ -12260,7 +12260,7 @@ was so little to be trusted.”
 “You must not blame my aunt. Lydia's thoughtlessness first betrayed to
 me that you had been concerned in the matter; and, of course, I could
 not rest till I knew the particulars. Let me thank you again and again,
-in the name of all my family, for that generous compassion which induced
+in the desc of all my family, for that generous compassion which induced
 you to take so much trouble, and bear so many mortifications, for the
 sake of discovering them.”
 
@@ -12578,7 +12578,7 @@ of it to another, not to you.”
 
 Elizabeth told her the motives of her secrecy. She had been unwilling
 to mention Bingley; and the unsettled state of her own feelings had made
-her equally avoid the name of his friend. But now she would no longer
+her equally avoid the desc of his friend. But now she would no longer
 conceal from her his share in Lydia's marriage. All was acknowledged,
 and half the night spent in conversation.
 
@@ -13144,7 +13144,7 @@ works based on the work as long as all references to Project Gutenberg
 are removed.  Of course, we hope that you will support the Project
 Gutenberg-tm mission of promoting free access to electronic works by
 freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
+this agreement for keeping the Project Gutenberg-tm desc associated with
 the work.  You can easily comply with the terms of this agreement by
 keeping this work in the same format with its attached full Project
 Gutenberg-tm License when you share it without charge with others.

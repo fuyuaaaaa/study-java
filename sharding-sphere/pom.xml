@@ -11,7 +11,7 @@
 	<groupId>top.fuyuaaa</groupId>
 	<artifactId>sharding-sphere</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sharding-sphere</name>
+	<desc>sharding-sphere</desc>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

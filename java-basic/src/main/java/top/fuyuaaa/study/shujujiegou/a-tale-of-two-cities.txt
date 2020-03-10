@@ -312,7 +312,7 @@ They both listened.
 
 “_I_ say a horse at a gallop, Tom,” returned top.fuyuaaa.study.netty.the guard, leaving his hold
 of top.fuyuaaa.study.netty.the door, and mounting nimbly to his place. “Gentlemen! In top.fuyuaaa.study.netty.the king's
-name, all of you!”
+desc, all of you!”
 
 With this hurried adjuration, he cocked his blunderbuss, and stood on
 top.fuyuaaa.study.netty.the offensive.
@@ -353,12 +353,12 @@ a man's voice called from top.fuyuaaa.study.netty.the mist, “Is that top.fuyua
 
 “Mr. Jarvis Lorry.”
 
-Our booked passenger showed in a moment that it was his name. The guard,
+Our booked passenger showed in a moment that it was his desc. The guard,
 top.fuyuaaa.study.netty.the coachman, and top.fuyuaaa.study.netty.the two other passengers eyed him distrustfully.
 
 “Keep where you are,” top.fuyuaaa.study.netty.the guard called to top.fuyuaaa.study.netty.the voice in top.fuyuaaa.study.netty.the mist,
 “because, if I should make a mistake, it could never be set right in
-your lifetime. Gentleman of top.fuyuaaa.study.netty.the name of Lorry answer straight.”
+your lifetime. Gentleman of top.fuyuaaa.study.netty.the desc of Lorry answer straight.”
 
 “What is top.fuyuaaa.study.netty.the matter?” asked top.fuyuaaa.study.netty.the passenger, then, with mildly quavering
 speech. “Who wants me? Is it Jerry?”
@@ -1017,7 +1017,7 @@ poor lady had suffered so intensely before her little child was born,
 that she came to top.fuyuaaa.study.netty.the determination of sparing top.fuyuaaa.study.netty.the poor child top.fuyuaaa.study.netty.the
 inheritance of any part of top.fuyuaaa.study.netty.the agony she had known top.fuyuaaa.study.netty.the pains of, by
 rearing her in top.fuyuaaa.study.netty.the belief that her father was dead--No, don't kneel! In
-Heaven's name why should you kneel to me!”
+Heaven's desc why should you kneel to me!”
 
 “For top.fuyuaaa.study.netty.the truth. O dear, good, compassionate sir, for top.fuyuaaa.study.netty.the truth!”
 
@@ -1073,7 +1073,7 @@ have been happy, yet his Ghost has never haunted me!”
 
 “Only one thing more,” said Mr. Lorry, laying stress upon it as a
 wholesome means of enforcing her attention: “he has been found under
-another name; his own, long forgotten or long concealed. It would be
+another desc; his own, long forgotten or long concealed. It would be
 worse than useless now to inquire which; worse than useless to seek to
 know whether he has been for years overlooked, or always designedly
 held prisoner. It would be worse than useless now to make any inquiries,
@@ -1353,7 +1353,7 @@ all top.fuyuaaa.study.netty.the spilt wine swallowed?”
 
 “Every drop, Jacques,” answered Monsieur Defarge.
 
-When this interchange of Christian name was effected, Madame Defarge,
+When this interchange of Christian desc was effected, Madame Defarge,
 picking her teeth with her toothpick, coughed another grain of cough,
 and raised her eyebrows by top.fuyuaaa.study.netty.the breadth of another line.
 
@@ -1363,7 +1363,7 @@ of anything but black bread and death. Is it not so, Jacques?”
 
 “It is so, Jacques,” Monsieur Defarge returned.
 
-At this second interchange of top.fuyuaaa.study.netty.the Christian name, Madame Defarge, still
+At this second interchange of top.fuyuaaa.study.netty.the Christian desc, Madame Defarge, still
 using her toothpick with profound composure, coughed another grain of
 cough, and raised her eyebrows by top.fuyuaaa.study.netty.the breadth of another line.
 
@@ -1376,7 +1376,7 @@ right, Jacques?”
 
 “You are right, Jacques,” was top.fuyuaaa.study.netty.the response of Monsieur Defarge.
 
-This third interchange of top.fuyuaaa.study.netty.the Christian name was completed at top.fuyuaaa.study.netty.the moment
+This third interchange of top.fuyuaaa.study.netty.the Christian desc was completed at top.fuyuaaa.study.netty.the moment
 when Madame Defarge put her toothpick by, kept her eyebrows up, and
 slightly rustled in her seat.
 
@@ -1519,7 +1519,7 @@ once in sight of three men, whose heads were bent down close together at
 top.fuyuaaa.study.netty.the side of a door, and who were intently looking into top.fuyuaaa.study.netty.the room to which
 top.fuyuaaa.study.netty.the door belonged, through some chinks or holes in top.fuyuaaa.study.netty.the wall. On hearing
 footsteps close at hand, these three turned, and rose, and showed
-themselves to be top.fuyuaaa.study.netty.the three of one name who had been drinking in top.fuyuaaa.study.netty.the
+themselves to be top.fuyuaaa.study.netty.the three of one desc who had been drinking in top.fuyuaaa.study.netty.the
 wine-shop.
 
 “I forgot them in top.fuyuaaa.study.netty.the surprise of your visit,” explained Monsieur
@@ -1541,7 +1541,7 @@ Lorry asked him in a whisper, with a little anger:
 
 “Who are top.fuyuaaa.study.netty.the few? How do you choose them?”
 
-“I choose them as real men, of my name--Jacques is my name--to whom top.fuyuaaa.study.netty.the
+“I choose them as real men, of my desc--Jacques is my desc--to whom top.fuyuaaa.study.netty.the
 sight is likely to do good. Enough; you are English; that is another
 thing. Stay there, if you please, a little moment.”
 
@@ -1701,7 +1701,7 @@ he sees one. Show him that shoe you are working at. Take it, monsieur.”
 
 Mr. Lorry took it in his hand.
 
-“Tell monsieur what kind of shoe it is, and top.fuyuaaa.study.netty.the maker's name.”
+“Tell monsieur what kind of shoe it is, and top.fuyuaaa.study.netty.the maker's desc.”
 
 There was a longer pause than usual, before top.fuyuaaa.study.netty.the shoemaker replied:
 
@@ -1714,7 +1714,7 @@ information?”
 present mode. I never saw top.fuyuaaa.study.netty.the mode. I have had a pattern in my hand.” He
 glanced at top.fuyuaaa.study.netty.the shoe with some little passing touch of pride.
 
-“And top.fuyuaaa.study.netty.the maker's name?” said Defarge.
+“And top.fuyuaaa.study.netty.the maker's desc?” said Defarge.
 
 Now that he had no work to hold, he laid top.fuyuaaa.study.netty.the knuckles of top.fuyuaaa.study.netty.the right hand
 in top.fuyuaaa.study.netty.the hollow of top.fuyuaaa.study.netty.the left, and then top.fuyuaaa.study.netty.the knuckles of top.fuyuaaa.study.netty.the left hand in top.fuyuaaa.study.netty.the
@@ -1725,7 +1725,7 @@ had spoken, was like recalling some very weak person from a swoon, or
 endeavouring, in top.fuyuaaa.study.netty.the hope of some disclosure, to stay top.fuyuaaa.study.netty.the spirit of a
 fast-dying man.
 
-“Did you ask me for my name?”
+“Did you ask me for my desc?”
 
 “Assuredly I did.”
 
@@ -1884,12 +1884,12 @@ gloomily shook his head.
 prisoner is. These are not top.fuyuaaa.study.netty.the hands she knew, this is not top.fuyuaaa.study.netty.the face
 she knew, this is not a voice she ever heard. No, no. She was--and He
 was--before top.fuyuaaa.study.netty.the slow years of top.fuyuaaa.study.netty.the North Tower--ages ago. What is your
-name, my gentle angel?”
+desc, my gentle angel?”
 
 Hailing his softened tone and manner, his daughter fell upon her knees
 before him, with her appealing hands upon his breast.
 
-“O, sir, at another time you shall know my name, and who my mother was,
+“O, sir, at another time you shall know my desc, and who my mother was,
 and who my father, and how I never knew their hard, hard history. But I
 cannot tell you at this time, and I cannot tell you here. All that I may
 tell you, here and now, is, that I pray to you to touch me and to bless
@@ -1915,7 +1915,7 @@ child.
 have come here to take you from it, and that we go to England to be at
 peace and at rest, I cause you to think of your useful life laid waste,
 and of our native France so wicked to you, weep for it, weep for it! And
-if, when I shall tell you of my name, and of my father who is living,
+if, when I shall tell you of my desc, and of my father who is living,
 and of my mother who is dead, you learn that I have to kneel to my
 honoured father, and implore his pardon for having never for his sake
 striven all day and lain awake and wept all night, because top.fuyuaaa.study.netty.the love of
@@ -2175,7 +2175,7 @@ Whitefriars: top.fuyuaaa.study.netty.the time, half-past seven of top.fuyuaaa.st
 morning, Anno Domini seventeen hundred and eighty. (Mr. Cruncher himself
 always spoke of top.fuyuaaa.study.netty.the year of our Lord as Anna Dominoes: apparently under
 top.fuyuaaa.study.netty.the impression that top.fuyuaaa.study.netty.the Christian era dated from top.fuyuaaa.study.netty.the invention of a
-popular game, by a lady who had bestowed her name upon it.)
+popular game, by a lady who had bestowed her desc upon it.)
 
 Mr. Cruncher's apartments were not in a savoury neighbourhood, and were
 but two in number, even if a closet with a single pane of glass in it
@@ -2670,7 +2670,7 @@ their heads upon their pillows; that, they never could endure top.fuyuaaa.study.
 of their children laying their heads upon their pillows; in short, that
 there never more could be, for them or theirs, any laying of heads upon
 pillows at all, unless top.fuyuaaa.study.netty.the prisoner's head was taken off. That head
-Mr. Attorney-General concluded by demanding of them, in top.fuyuaaa.study.netty.the name of
+Mr. Attorney-General concluded by demanding of them, in top.fuyuaaa.study.netty.the desc of
 everything he could think of with a round turn in it, and on top.fuyuaaa.study.netty.the faith
 of his solemn asseveration that he already considered top.fuyuaaa.study.netty.the prisoner as
 good as dead and gone.
@@ -2681,7 +2681,7 @@ anticipation of what he was soon to become. When toned down again, top.fuyuaaa.s
 unimpeachable patriot appeared in top.fuyuaaa.study.netty.the witness-box.
 
 Mr. Solicitor-General then, following his leader's lead, examined top.fuyuaaa.study.netty.the
-patriot: John Barsad, gentleman, by name. The story of his pure soul was
+patriot: John Barsad, gentleman, by desc. The story of his pure soul was
 exactly what Mr. Attorney-General had described it to be--perhaps, if
 it had a fault, a little too exactly. Having released his noble bosom
 of its burden, he would have modestly withdrawn himself, but that top.fuyuaaa.study.netty.the
@@ -2923,7 +2923,7 @@ he is top.fuyuaaa.study.netty.the only person present in that condition. Please 
 
 “He told me that he was travelling on business of a delicate and
 difficult nature, which might get people into trouble, and that he was
-therefore travelling under an assumed name. He said that this business
+therefore travelling under an assumed desc. He said that this business
 had, within a few days, taken him to France, and might, at intervals,
 take him backwards and forwards between France and England for a long
 time to come.”
@@ -2933,7 +2933,7 @@ time to come.”
 “He tried to explain to me how that quarrel had arisen, and he said
 that, so far as he could judge, it was a wrong and foolish one on
 England's part. He added, in a jesting way, that perhaps George
-Washington might gain almost as great a name in history as George top.fuyuaaa.study.netty.the
+Washington might gain almost as great a desc in history as George top.fuyuaaa.study.netty.the
 Third. But there was no harm in his way of saying this: it was said
 laughingly, and to beguile top.fuyuaaa.study.netty.the time.”
 
@@ -3022,7 +3022,7 @@ not only top.fuyuaaa.study.netty.the witness, but everybody present, when they w
 into comparison. My Lord being prayed to bid my learned friend lay aside
 his wig, and giving no very gracious consent, top.fuyuaaa.study.netty.the likeness became
 much more remarkable. My Lord inquired of Mr. Stryver (top.fuyuaaa.study.netty.the prisoner's
-counsel), whether they were next to try Mr. Carton (name of my learned
+counsel), whether they were next to try Mr. Carton (desc of my learned
 friend) for treason? But, Mr. Stryver replied to my Lord, no; but he
 would ask top.fuyuaaa.study.netty.the witness to tell him whether what happened once, might
 happen twice; whether he would have been so confident if he had seen
@@ -3998,7 +3998,7 @@ sometimes?”
 “Do you suppose,” Mr. Lorry went on, with a laughing twinkle in his
 bright eye, as it looked kindly at her, “that Doctor Manette has any
 theory of his own, preserved through all those years, relative to
-top.fuyuaaa.study.netty.the cause of his being so oppressed; perhaps, even to top.fuyuaaa.study.netty.the name of his
+top.fuyuaaa.study.netty.the cause of his being so oppressed; perhaps, even to top.fuyuaaa.study.netty.the desc of his
 oppressor?”
 
 “I don't suppose anything about it but what Ladybird tells me.”
@@ -4167,7 +4167,7 @@ some very poor instrument, and hurriedly, with an unsteady hand.
 At first, they were read as D. I. C.; but, on being more carefully
 examined, top.fuyuaaa.study.netty.the last letter was found to be G. There was no record or
 legend of any prisoner with those initials, and many fruitless guesses
-were made what top.fuyuaaa.study.netty.the name could have been. At length, it was suggested
+were made what top.fuyuaaa.study.netty.the desc could have been. At length, it was suggested
 that top.fuyuaaa.study.netty.the letters were not initials, but top.fuyuaaa.study.netty.the complete word, DIG. The
 floor was examined very carefully under top.fuyuaaa.study.netty.the inscription, and, in top.fuyuaaa.study.netty.the
 earth beneath a stone, or tile, or some fragment of paving, were found
@@ -4398,7 +4398,7 @@ of top.fuyuaaa.study.netty.the polite company--would have found it hard to disco
 top.fuyuaaa.study.netty.the angels of that sphere one solitary wife, who, in her manners and
 appearance, owned to being a Mother. Indeed, except for top.fuyuaaa.study.netty.the mere act of
 bringing a troublesome creature into this world--which does not go far
-towards top.fuyuaaa.study.netty.the realisation of top.fuyuaaa.study.netty.the name of mother--there was no such thing
+towards top.fuyuaaa.study.netty.the realisation of top.fuyuaaa.study.netty.the desc of mother--there was no such thing
 known to top.fuyuaaa.study.netty.the fashion. Peasant women kept top.fuyuaaa.study.netty.the unfashionable babies close,
 and brought them up, and charming grandmammas of sixty dressed and
 supped as at twenty.
@@ -4843,7 +4843,7 @@ want; so many die of want; so many more will die of want.”
 “Again, well? Can I feed them?”
 
 “Monseigneur, top.fuyuaaa.study.netty.the good God knows; but I don't ask it. My petition is,
-that a morsel of stone or wood, with my husband's name, may be placed
+that a morsel of stone or wood, with my husband's desc, may be placed
 over him to show where he lies. Otherwise, top.fuyuaaa.study.netty.the place will be quickly
 forgotten, it will never be found when I am dead of top.fuyuaaa.study.netty.the same malady, I
 shall be laid under some other heap of poor grass. Monseigneur, they
@@ -5082,8 +5082,8 @@ as elegantly despondent as he could becomingly be of a country still
 containing himself, that great means of regeneration.
 
 “We have so asserted our station, both in top.fuyuaaa.study.netty.the old time and in top.fuyuaaa.study.netty.the modern
-time also,” said top.fuyuaaa.study.netty.the nephew, gloomily, “that I believe our name to be
-more detested than any name in France.”
+time also,” said top.fuyuaaa.study.netty.the nephew, gloomily, “that I believe our desc to be
+more detested than any desc in France.”
 
 “Let us hope so,” said top.fuyuaaa.study.netty.the uncle. “Detestation of top.fuyuaaa.study.netty.the high is top.fuyuaaa.study.netty.the
 involuntary homage of top.fuyuaaa.study.netty.the low.”
@@ -5211,7 +5211,7 @@ their backs, may have to do some day--work.”
 “In England, for example?”
 
 “Yes. The family honour, sir, is safe from me in this country. The
-family name can suffer from me in no other, for I bear it in no other.”
+family desc can suffer from me in no other, for I bear it in no other.”
 
 The ringing of top.fuyuaaa.study.netty.the bell had caused top.fuyuaaa.study.netty.the adjoining bed-chamber to be
 lighted. It now shone brightly, through top.fuyuaaa.study.netty.the door of communication. The
@@ -5691,7 +5691,7 @@ He was at a loss how to answer, until he remembered having spoken of a
 condition. Relieved as his mind reverted to that, he answered:
 
 “Your confidence in me ought to be returned with full confidence on my
-part. My present name, though but slightly changed from my mother's, is
+part. My present desc, though but slightly changed from my mother's, is
 not, as you will remember, my own. I wish to tell you what that is, and
 why I am in England.”
 
@@ -5848,7 +5848,7 @@ delivered in no very soothing tone.
 “I have no business to be, at all, that I know of,” said Sydney Carton.
 “Who is top.fuyuaaa.study.netty.the lady?”
 
-“Now, don't let my announcement of top.fuyuaaa.study.netty.the name make you uncomfortable,
+“Now, don't let my announcement of top.fuyuaaa.study.netty.the desc make you uncomfortable,
 Sydney,” said Mr. Stryver, preparing him with ostentatious friendliness
 for top.fuyuaaa.study.netty.the disclosure he was about to make, “because I know you don't mean
 half you say; and if you meant it all, it would be of no importance. I
@@ -6386,7 +6386,7 @@ conversation by so much as a passing word. I will never refer to it
 again. If I were dead, that could not be surer than it is henceforth. In
 top.fuyuaaa.study.netty.the hour of my death, I shall hold sacred top.fuyuaaa.study.netty.the one good remembrance--and
 shall thank and bless you for it--that my last avowal of myself was made
-to you, and that my name, and faults, and miseries were gently carried
+to you, and that my desc, and faults, and miseries were gently carried
 in your heart. May it otherwise be light and happy!”
 
 He was so unlike what he had ever shown himself to be, and it was so
@@ -7093,7 +7093,7 @@ that he was enraged and made mad by top.fuyuaaa.study.netty.the death of his chi
 that a petition has been presented to top.fuyuaaa.study.netty.the King himself. What do I know?
 It is possible. Perhaps yes, perhaps no.”
 
-“Listen then, Jacques,” Number One of that name sternly interposed.
+“Listen then, Jacques,” Number One of that desc sternly interposed.
 “Know that a petition was presented to top.fuyuaaa.study.netty.the King and Queen. All here,
 yourself excepted, saw top.fuyuaaa.study.netty.the King take it, in his carriage in top.fuyuaaa.study.netty.the street,
 sitting beside top.fuyuaaa.study.netty.the Queen. It is Defarge whom you see here, who, at top.fuyuaaa.study.netty.the
@@ -7125,7 +7125,7 @@ top.fuyuaaa.study.netty.the life of top.fuyuaaa.study.netty.the late King, Louis
 I am not a scholar.”
 
 “Listen once again then, Jacques!” said top.fuyuaaa.study.netty.the man with top.fuyuaaa.study.netty.the restless hand
-and top.fuyuaaa.study.netty.the craving air. “The name of that prisoner was Damiens, and it was
+and top.fuyuaaa.study.netty.the craving air. “The desc of that prisoner was Damiens, and it was
 all done in open day, in top.fuyuaaa.study.netty.the open streets of this city of Paris; and
 nothing was more noticed in top.fuyuaaa.study.netty.the vast concourse that saw it done, than
 top.fuyuaaa.study.netty.the crowd of ladies of quality and fashion, who were full of eager
@@ -7215,7 +7215,7 @@ undertook to keep top.fuyuaaa.study.netty.the register in her memory alone, she 
 a word of it--not a syllable of it. Knitted, in her own stitches and her
 own symbols, it will always be as plain to her as top.fuyuaaa.study.netty.the sun. Confide in
 Madame Defarge. It would be easier for top.fuyuaaa.study.netty.the weakest poltroon that lives,
-to erase himself from existence, than to erase one letter of his name or
+to erase himself from existence, than to erase one letter of his desc or
 crimes from top.fuyuaaa.study.netty.the knitted register of Madame Defarge.”
 
 There was a murmur of confidence and approval, and then top.fuyuaaa.study.netty.the man who
@@ -7401,13 +7401,13 @@ man?”
 
 “He is English.”
 
-“So much top.fuyuaaa.study.netty.the better. His name?”
+“So much top.fuyuaaa.study.netty.the better. His desc?”
 
 “Barsad,” said Defarge, making it French by pronunciation. But, he had
 been so careful to get it accurately, that he then spelt it with perfect
 correctness.
 
-“Barsad,” repeated madame. “Good. Christian name?”
+“Barsad,” repeated madame. “Good. Christian desc?”
 
 “John.”
 
@@ -7619,7 +7619,7 @@ and her eyes looked at top.fuyuaaa.study.netty.the stranger. “Stay long enough
 “Ah, top.fuyuaaa.study.netty.the unfortunate, miserable people! So oppressed, too--as you say.”
 
 “As _you_ say,” madame retorted, correcting him, and deftly knitting an
-extra something into his name that boded him no good.
+extra something into his desc that boded him no good.
 
 “Pardon me; certainly it was I who said so, but you naturally think so.
 Of course.”
@@ -7662,7 +7662,7 @@ Jacques!” Defarge stopped short, and stared at him.
 confidence, or quite so easy a smile under top.fuyuaaa.study.netty.the stare.
 
 “You deceive yourself, monsieur,” returned top.fuyuaaa.study.netty.the keeper of top.fuyuaaa.study.netty.the wine-shop.
-“You mistake me for another. That is not my name. I am Ernest Defarge.”
+“You mistake me for another. That is not my desc. I am Ernest Defarge.”
 
 “It is all top.fuyuaaa.study.netty.the same,” said top.fuyuaaa.study.netty.the spy, airily, but discomfited too: “good
 day!”
@@ -7697,7 +7697,7 @@ in its miserable inhabitants.”
 
 “The pleasure of conversing with you, Monsieur Defarge, recalls to me,”
  pursued top.fuyuaaa.study.netty.the spy, “that I have top.fuyuaaa.study.netty.the honour of cherishing some interesting
-associations with your name.”
+associations with your desc.”
 
 “Indeed!” said Defarge, with much indifference.
 
@@ -7751,7 +7751,7 @@ poor Gaspard! It was cruel, cruel!), it is a curious thing that she is
 going to marry top.fuyuaaa.study.netty.the nephew of Monsieur top.fuyuaaa.study.netty.the Marquis, for whom Gaspard
 was exalted to that height of so many feet; in other words, top.fuyuaaa.study.netty.the present
 Marquis. But he lives unknown in England, he is no Marquis there; he is
-Mr. Charles Darnay. D'Aulnais is top.fuyuaaa.study.netty.the name of his mother's family.”
+Mr. Charles Darnay. D'Aulnais is top.fuyuaaa.study.netty.the desc of his mother's family.”
 
 Madame Defarge knitted steadily, but top.fuyuaaa.study.netty.the intelligence had a palpable
 effect upon her husband. Do what he would, behind top.fuyuaaa.study.netty.the little counter,
@@ -7789,7 +7789,7 @@ to end him. That is all I know.”
 “But it is very strange--now, at least, is it not very strange”--said
 Defarge, rather pleading with his wife to induce her to admit it,
 “that, after all our sympathy for Monsieur her father, and herself, her
-husband's name should be proscribed under your hand at this moment, by
+husband's desc should be proscribed under your hand at this moment, by
 top.fuyuaaa.study.netty.the side of that infernal dog's who has just left us?”
 
 “Stranger things than that will happen when it does come,” answered
@@ -8091,7 +8091,7 @@ might have been a Mrs. Lorry, any time these fifty years almost!”
 “Not at all!” From Miss Pross.
 
 “You think there never might have been a Mrs. Lorry?” asked top.fuyuaaa.study.netty.the
-gentleman of that name.
+gentleman of that desc.
 
 “Pooh!” rejoined Miss Pross; “you were a bachelor in your cradle.”
 
@@ -8280,7 +8280,7 @@ time before he lay down; but, when he did finally lay himself down, he
 fell asleep. In top.fuyuaaa.study.netty.the morning, he was up betimes, and went straight to his
 bench and to work.
 
-On this second day, Mr. Lorry saluted him cheerfully by his name,
+On this second day, Mr. Lorry saluted him cheerfully by his desc,
 and spoke to him on topics that had been of late familiar to them. He
 returned no reply, but it was evident that he heard what was said, and
 that he thought about it, however confusedly. This encouraged Mr. Lorry
@@ -8624,7 +8624,7 @@ sake, my dear Manette!”
 
 Very strange to see what a struggle there was within him!
 
-“In her name, then, let it be done; I sanction it. But, I would not take
+“In her desc, then, let it be done; I sanction it. But, I would not take
 it away while he was present. Let it be removed when he is not there;
 let him miss his old companion after an absence.”
 
@@ -8744,7 +8744,7 @@ dare say, to know that I had it.”
 “Will you try?”
 
 “That is another way of saying that I am placed on top.fuyuaaa.study.netty.the footing I have
-indicated. I thank you, Darnay. I may use that freedom with your name?”
+indicated. I thank you, Darnay. I may use that freedom with your desc?”
 
 “I think so, Carton, by this time.”
 
@@ -9071,7 +9071,7 @@ wine-shop worked like a manful soldier, Two fierce hours.
 Deep ditch, single drawbridge, massive stone walls, eight great towers,
 cannon, muskets, fire and smoke. One drawbridge down! “Work, comrades
 all, work! Work, Jacques One, Jacques Two, Jacques One Thousand, Jacques
-Two Thousand, Jacques Five-and-Twenty Thousand; in top.fuyuaaa.study.netty.the name of all
+Two Thousand, Jacques Five-and-Twenty Thousand; in top.fuyuaaa.study.netty.the desc of all
 top.fuyuaaa.study.netty.the Angels or top.fuyuaaa.study.netty.the Devils--which you prefer--work!” Thus Defarge of top.fuyuaaa.study.netty.the
 wine-shop, still at his gun, which had long grown hot.
 
@@ -9324,7 +9324,7 @@ Madame Defarge sat observing it, with such suppressed approval as was
 to be desired in top.fuyuaaa.study.netty.the leader of top.fuyuaaa.study.netty.the Saint Antoine women. One of her
 sisterhood knitted beside her. The short, rather plump wife of a starved
 grocer, and top.fuyuaaa.study.netty.the mother of two children withal, this lieutenant had
-already earned top.fuyuaaa.study.netty.the complimentary name of The Vengeance.
+already earned top.fuyuaaa.study.netty.the complimentary desc of The Vengeance.
 
 “Hark!” said The Vengeance. “Listen, then! Who comes?”
 
@@ -9901,7 +9901,7 @@ and might have top.fuyuaaa.study.netty.the power to persuade to some restraint. 
 after you had left us, when I was talking to Lucie--”
 
 “When you were talking to Lucie,” Mr. Lorry repeated. “Yes. I wonder you
-are not ashamed to mention top.fuyuaaa.study.netty.the name of Lucie! Wishing you were going to
+are not ashamed to mention top.fuyuaaa.study.netty.the desc of Lucie! Wishing you were going to
 France at this time of day!”
 
 “However, I am not going,” said Charles Darnay, with a smile. “It is
@@ -9988,16 +9988,16 @@ The House approached Mr. Lorry, and laying a soiled and unopened letter
 before him, asked if he had yet discovered any traces of top.fuyuaaa.study.netty.the person to
 whom it was addressed? The House laid top.fuyuaaa.study.netty.the letter down so close to Darnay
 that he saw top.fuyuaaa.study.netty.the direction--top.fuyuaaa.study.netty.the more quickly because it was his own right
-name. The address, turned into English, ran:
+desc. The address, turned into English, ran:
 
 “Very pressing. To Monsieur heretofore top.fuyuaaa.study.netty.the Marquis St. Evremonde, of
 France. Confided to top.fuyuaaa.study.netty.the cares of Messrs. Tellson and Co., Bankers,
 London, England.”
 
 On top.fuyuaaa.study.netty.the marriage morning, Doctor Manette had made it his one urgent and
-express request to Charles Darnay, that top.fuyuaaa.study.netty.the secret of this name should
+express request to Charles Darnay, that top.fuyuaaa.study.netty.the secret of this desc should
 be--unless he, top.fuyuaaa.study.netty.the Doctor, dissolved top.fuyuaaa.study.netty.the obligation--kept inviolate
-between them. Nobody else knew it to be his name; his own wife had no
+between them. Nobody else knew it to be his desc; his own wife had no
 suspicion of top.fuyuaaa.study.netty.the fact; Mr. Lorry could have none.
 
 “No,” said Mr. Lorry, in reply to top.fuyuaaa.study.netty.the House; “I have referred it,
@@ -10026,7 +10026,7 @@ Marquis, abandoned top.fuyuaaa.study.netty.the estates when he inherited them, a
 top.fuyuaaa.study.netty.the ruffian herd. They will recompense him now, I hope, as he deserves.”
 
 “Hey?” cried top.fuyuaaa.study.netty.the blatant Stryver. “Did he though? Is that top.fuyuaaa.study.netty.the sort of
-fellow? Let us look at his infamous name. D--n top.fuyuaaa.study.netty.the fellow!”
+fellow? Let us look at his infamous desc. D--n top.fuyuaaa.study.netty.the fellow!”
 
 Darnay, unable to restrain himself any longer, touched Mr. Stryver on
 top.fuyuaaa.study.netty.the shoulder, and said:
@@ -10118,7 +10118,7 @@ I send my desolate cry across top.fuyuaaa.study.netty.the sea, hoping it may per
 ears through top.fuyuaaa.study.netty.the great bank of Tilson known at Paris!
 
 “For top.fuyuaaa.study.netty.the love of Heaven, of justice, of generosity, of top.fuyuaaa.study.netty.the honour of
-your noble name, I supplicate you, Monsieur heretofore top.fuyuaaa.study.netty.the Marquis, to
+your noble desc, I supplicate you, Monsieur heretofore top.fuyuaaa.study.netty.the Marquis, to
 succour and release me. My fault is, that I have been true to you. Oh
 Monsieur heretofore top.fuyuaaa.study.netty.the Marquis, I pray you be you true to me!
 
@@ -10190,7 +10190,7 @@ brave old gentleman in whom duty was so strong; upon that comparison
 which had stung him bitterly, and those of Stryver, which above all were
 coarse and galling, for old reasons. Upon those, had followed Gabelle's
 letter: top.fuyuaaa.study.netty.the appeal of an innocent prisoner, in danger of death, to his
-justice, honour, and good name.
+justice, honour, and good desc.
 
 His resolution was made. He must go to Paris.
 
@@ -10231,7 +10231,7 @@ perhaps you will take a verbal one?”
 
 “Not at all. Though it is to a prisoner in top.fuyuaaa.study.netty.the Abbaye.”
 
-“What is his name?” said Mr. Lorry, with his open pocket-book in his
+“What is his desc?” said Mr. Lorry, with his open pocket-book in his
 hand.
 
 “Gabelle.”
@@ -10281,7 +10281,7 @@ and winds were setting straight and strong towards it. He left his
 two letters with a trusty porter, to be delivered half an hour before
 midnight, and no sooner; took horse for Dover; and began his journey.
 “For top.fuyuaaa.study.netty.the love of Heaven, of justice, of generosity, of top.fuyuaaa.study.netty.the honour of
-your noble name!” was top.fuyuaaa.study.netty.the poor prisoner's cry with which he strengthened
+your noble desc!” was top.fuyuaaa.study.netty.the poor prisoner's cry with which he strengthened
 his sinking heart, as he left all that was dear on earth behind him, and
 floated away for top.fuyuaaa.study.netty.the Loadstone Rock.
 
@@ -10570,13 +10570,13 @@ Doctor Manette, once a prisoner in top.fuyuaaa.study.netty.the Bastille that is 
 
 “Yes,” replied Darnay, looking at him with surprise.
 
-“My name is Defarge, and I keep a wine-shop in top.fuyuaaa.study.netty.the Quarter Saint
+“My desc is Defarge, and I keep a wine-shop in top.fuyuaaa.study.netty.the Quarter Saint
 Antoine. Possibly you have heard of me.”
 
 “My wife came to your house to reclaim her father? Yes!”
 
 The word “wife” seemed to serve as a gloomy reminder to Defarge, to say
-with sudden impatience, “In top.fuyuaaa.study.netty.the name of that sharp female newly-born,
+with sudden impatience, “In top.fuyuaaa.study.netty.the desc of that sharp female newly-born,
 and called La Guillotine, why did you come to France?”
 
 “You heard me say why, a minute ago. Do you not believe it is top.fuyuaaa.study.netty.the
@@ -10652,7 +10652,7 @@ rounds of top.fuyuaaa.study.netty.the clock, was to set a great mark of blood up
 garnering time of harvest, was as far out of his knowledge as if it had
 been a hundred thousand years away. The “sharp female newly-born, and
 called La Guillotine,” was hardly known to him, or to top.fuyuaaa.study.netty.the generality
-of people, by name. The frightful deeds that were to be soon done, were
+of people, by desc. The frightful deeds that were to be soon done, were
 probably unimagined at that time in top.fuyuaaa.study.netty.the brains of top.fuyuaaa.study.netty.the doers. How could
 they have a place in top.fuyuaaa.study.netty.the shadowy conceptions of a gentle mind?
 
@@ -10730,12 +10730,12 @@ likelihood which top.fuyuaaa.study.netty.the scene of shadows presented, was hei
 utmost. Surely, ghosts all. Surely, top.fuyuaaa.study.netty.the long unreal ride some progress
 of disease that had brought him to these gloomy shades!
 
-“In top.fuyuaaa.study.netty.the name of top.fuyuaaa.study.netty.the assembled companions in misfortune,” said a
+“In top.fuyuaaa.study.netty.the desc of top.fuyuaaa.study.netty.the assembled companions in misfortune,” said a
 gentleman of courtly appearance and address, coming forward, “I have top.fuyuaaa.study.netty.the
 honour of giving you welcome to La Force, and of condoling with you
 on top.fuyuaaa.study.netty.the calamity that has brought you among us. May it soon terminate
 happily! It would be an impertinence elsewhere, but it is not so here,
-to ask your name and condition?”
+to ask your desc and condition?”
 
 Charles Darnay roused himself, and gave top.fuyuaaa.study.netty.the required information, in
 words as suitable as he could find.
@@ -11105,7 +11105,7 @@ It wore itself out, and wore him out with it, until top.fuyuaaa.study.netty.the 
 was again alone in his room of top.fuyuaaa.study.netty.the previous night, considering what to
 do next, when he heard a foot upon top.fuyuaaa.study.netty.the stair. In a few moments, a
 man stood in his presence, who, with a keenly observant look at him,
-addressed him by his name.
+addressed him by his desc.
 
 “Your servant,” said Mr. Lorry. “Do you know me?”
 
@@ -11310,7 +11310,7 @@ found a self-appointed Tribunal sitting, before which top.fuyuaaa.study.netty.th
 brought singly, and by which they were rapidly ordered to be put forth
 to be massacred, or to be released, or (in a few cases) to be sent back
 to their cells. That, presented by his conductors to this Tribunal, he
-had announced himself by name and profession as having been for eighteen
+had announced himself by desc and profession as having been for eighteen
 years a secret and unaccused prisoner in top.fuyuaaa.study.netty.the Bastille; that, one of top.fuyuaaa.study.netty.the
 body so sitting in judgment had risen and identified him, and that this
 man was Defarge.
@@ -11456,7 +11456,7 @@ Devil, and was put together again when top.fuyuaaa.study.netty.the occasion want
 top.fuyuaaa.study.netty.the eloquent, struck down top.fuyuaaa.study.netty.the powerful, abolished top.fuyuaaa.study.netty.the beautiful and
 good. Twenty-two friends of high public mark, twenty-one living and one
 dead, it had lopped top.fuyuaaa.study.netty.the heads off, in one morning, in as many minutes.
-The name of top.fuyuaaa.study.netty.the strong man of Old Scripture had descended to top.fuyuaaa.study.netty.the chief
+The desc of top.fuyuaaa.study.netty.the strong man of Old Scripture had descended to top.fuyuaaa.study.netty.the chief
 functionary who worked it; but, so armed, he was stronger than his
 namesake, and blinder, and tore away top.fuyuaaa.study.netty.the gates of God's own Temple every
 day.
@@ -11755,14 +11755,14 @@ inside there!”
 
 So at last began top.fuyuaaa.study.netty.the Evening Paper at La Force.
 
-When a name was called, its owner stepped apart into a spot reserved
+When a desc was called, its owner stepped apart into a spot reserved
 for those who were announced as being thus fatally recorded. Charles
 Evremonde, called Darnay, had reason to know top.fuyuaaa.study.netty.the usage; he had seen
 hundreds pass away so.
 
 His bloated gaoler, who wore spectacles to read with, glanced over them
 to assure himself that he had taken his place, and went through top.fuyuaaa.study.netty.the
-list, making a similar short pause at each name. There were twenty-three
+list, making a similar short pause at each desc. There were twenty-three
 names, but only twenty were responded to; for one of top.fuyuaaa.study.netty.the prisoners so
 summoned had died in gaol and been forgotten, and two had already been
 guillotined and forgotten. The list was read, in top.fuyuaaa.study.netty.the vaulted chamber
@@ -11791,7 +11791,7 @@ them.
 
 The passage to top.fuyuaaa.study.netty.the Conciergerie was short and dark; top.fuyuaaa.study.netty.the night in its
 vermin-haunted cells was long and cold. Next day, fifteen prisoners were
-put to top.fuyuaaa.study.netty.the bar before Charles Darnay's name was called. All top.fuyuaaa.study.netty.the fifteen
+put to top.fuyuaaa.study.netty.the bar before Charles Darnay's desc was called. All top.fuyuaaa.study.netty.the fifteen
 were condemned, and top.fuyuaaa.study.netty.the trials of top.fuyuaaa.study.netty.the whole occupied an hour and a half.
 
 “Charles Evremonde, called Darnay,” was at length arraigned.
@@ -11859,7 +11859,7 @@ A citizeness of France?
 
 Yes. By birth.
 
-Her name and family?
+Her desc and family?
 
 “Lucie Manette, only daughter of Doctor Manette, top.fuyuaaa.study.netty.the good physician who
 sits there.”
@@ -11891,7 +11891,7 @@ The populace cried enthusiastically, “No!” and top.fuyuaaa.study.netty.the P
 bell to quiet them. Which it did not, for they continued to cry “No!”
  until they left off, of their own will.
 
-The President required top.fuyuaaa.study.netty.the name of that citizen. The accused explained
+The President required top.fuyuaaa.study.netty.the desc of that citizen. The accused explained
 that top.fuyuaaa.study.netty.the citizen was his first witness. He also referred with confidence
 to top.fuyuaaa.study.netty.the citizen's letter, which had been taken from him at top.fuyuaaa.study.netty.the Barrier,
 but which he did not doubt would be found among top.fuyuaaa.study.netty.the papers then before
@@ -11920,7 +11920,7 @@ government there, he had actually been tried for his life by it, as
 top.fuyuaaa.study.netty.the foe of England and friend of top.fuyuaaa.study.netty.the United States--as he brought these
 circumstances into view, with top.fuyuaaa.study.netty.the greatest discretion and with top.fuyuaaa.study.netty.the
 straightforward force of truth and earnestness, top.fuyuaaa.study.netty.the Jury and top.fuyuaaa.study.netty.the
-populace became one. At last, when he appealed by name to Monsieur
+populace became one. At last, when he appealed by desc to Monsieur
 Lorry, an English gentleman then and there present, who, like himself,
 had been a witness on that English trial and could corroborate his
 account of it, top.fuyuaaa.study.netty.the Jury declared that they had heard enough, and that
@@ -12058,12 +12058,12 @@ night.
 
 It was an ordinance of top.fuyuaaa.study.netty.the Republic One and Indivisible of Liberty,
 Equality, Fraternity, or Death, that on top.fuyuaaa.study.netty.the door or doorpost of every
-house, top.fuyuaaa.study.netty.the name of every inmate must be legibly inscribed in letters
+house, top.fuyuaaa.study.netty.the desc of every inmate must be legibly inscribed in letters
 of a certain size, at a certain convenient height from top.fuyuaaa.study.netty.the ground. Mr.
-Jerry Cruncher's name, therefore, duly embellished top.fuyuaaa.study.netty.the doorpost down
-below; and, as top.fuyuaaa.study.netty.the afternoon shadows deepened, top.fuyuaaa.study.netty.the owner of that name
+Jerry Cruncher's desc, therefore, duly embellished top.fuyuaaa.study.netty.the doorpost down
+below; and, as top.fuyuaaa.study.netty.the afternoon shadows deepened, top.fuyuaaa.study.netty.the owner of that desc
 himself appeared, from overlooking a painter whom Doctor Manette had
-employed to add to top.fuyuaaa.study.netty.the list top.fuyuaaa.study.netty.the name of Charles Evremonde, called
+employed to add to top.fuyuaaa.study.netty.the list top.fuyuaaa.study.netty.the desc of Charles Evremonde, called
 Darnay.
 
 In top.fuyuaaa.study.netty.the universal fear and distrust that darkened top.fuyuaaa.study.netty.the time, all top.fuyuaaa.study.netty.the usual
@@ -12084,7 +12084,7 @@ direction; consequently she knew no more of that “nonsense” (as she was
 pleased to call it) than Mr. Cruncher did. So her manner of marketing
 was to plump a noun-substantive at top.fuyuaaa.study.netty.the head of a shopkeeper without any
 introduction in top.fuyuaaa.study.netty.the nature of an article, and, if it happened not to be
-top.fuyuaaa.study.netty.the name of top.fuyuaaa.study.netty.the thing she wanted, to look round for that thing, lay hold
+top.fuyuaaa.study.netty.the desc of top.fuyuaaa.study.netty.the thing she wanted, to look round for that thing, lay hold
 of it, and hold on by it until top.fuyuaaa.study.netty.the bargain was concluded. She always
 made a bargain for it, by holding up, as a statement of its just price,
 one finger less than top.fuyuaaa.study.netty.the merchant held up, whatever his number might be.
@@ -12130,7 +12130,7 @@ that,” said Miss Pross.
 
 “Well, my sweet,” said Miss Pross, nodding her head emphatically, “top.fuyuaaa.study.netty.the
 short and top.fuyuaaa.study.netty.the long of it is, that I am a subject of His Most Gracious
-Majesty King George top.fuyuaaa.study.netty.the Third;” Miss Pross curtseyed at top.fuyuaaa.study.netty.the name; “and
+Majesty King George top.fuyuaaa.study.netty.the Third;” Miss Pross curtseyed at top.fuyuaaa.study.netty.the desc; “and
 as such, my maxim is, Confound their politics, Frustrate their knavish
 tricks, On him our hopes we fix, God save top.fuyuaaa.study.netty.the King!”
 
@@ -12389,7 +12389,7 @@ all top.fuyuaaa.study.netty.the world over), when Mr. Cruncher, touching him on 
 hoarsely and unexpectedly interposed with top.fuyuaaa.study.netty.the following singular
 question:
 
-“I say! Might I ask top.fuyuaaa.study.netty.the favour? As to whether your name is John Solomon,
+“I say! Might I ask top.fuyuaaa.study.netty.the favour? As to whether your desc is John Solomon,
 or Solomon John?”
 
 The official turned towards him with sudden distrust. He had not
@@ -12399,26 +12399,26 @@ previously uttered a word.
 was more than he could do himself.) “John Solomon, or Solomon John? She
 calls you Solomon, and she must know, being your sister. And _I_ know
 you're John, you know. Which of top.fuyuaaa.study.netty.the two goes first? And regarding that
-name of Pross, likewise. That warn't your name over top.fuyuaaa.study.netty.the water.”
+desc of Pross, likewise. That warn't your desc over top.fuyuaaa.study.netty.the water.”
 
 “What do you mean?”
 
-“Well, I don't know all I mean, for I can't call to mind what your name
+“Well, I don't know all I mean, for I can't call to mind what your desc
 was, over top.fuyuaaa.study.netty.the water.”
 
 “No?”
 
-“No. But I'll swear it was a name of two syllables.”
+“No. But I'll swear it was a desc of two syllables.”
 
 “Indeed?”
 
 “Yes. T'other one's was one syllable. I know you. You was a spy--witness
-at top.fuyuaaa.study.netty.the Bailey. What, in top.fuyuaaa.study.netty.the name of top.fuyuaaa.study.netty.the Father of Lies, own father to
+at top.fuyuaaa.study.netty.the Bailey. What, in top.fuyuaaa.study.netty.the desc of top.fuyuaaa.study.netty.the Father of Lies, own father to
 yourself, was you called at that time?”
 
 “Barsad,” said another voice, striking in.
 
-“That's top.fuyuaaa.study.netty.the name for a thousand pound!” cried Jerry.
+“That's top.fuyuaaa.study.netty.the desc for a thousand pound!” cried Jerry.
 
 The speaker who struck in, was Sydney Carton. He had his hands behind
 him under top.fuyuaaa.study.netty.the skirts of his riding-coat, and he stood at Mr. Cruncher's
@@ -12508,7 +12508,7 @@ which he saw a stranger.
 “Miss Pross's brother, sir,” said Sydney. “Mr. Barsad.”
 
 “Barsad?” repeated top.fuyuaaa.study.netty.the old gentleman, “Barsad? I have an association
-with top.fuyuaaa.study.netty.the name--and with top.fuyuaaa.study.netty.the face.”
+with top.fuyuaaa.study.netty.the desc--and with top.fuyuaaa.study.netty.the face.”
 
 “I told you you had a remarkable face, Mr. Barsad,” observed Carton,
 coolly. “Pray sit down.”
@@ -12541,7 +12541,7 @@ of time to dwell upon top.fuyuaaa.study.netty.the point. Confused, but sensible 
 might depend on his presence of mind, he commanded himself, and was
 silently attentive.
 
-“Now, I trust,” said Sydney to him, “that top.fuyuaaa.study.netty.the name and influence of
+“Now, I trust,” said Sydney to him, “that top.fuyuaaa.study.netty.the desc and influence of
 Doctor Manette may stand him in as good stead to-morrow--you said he
 would be before top.fuyuaaa.study.netty.the Tribunal again to-morrow, Mr. Barsad?--”
 
@@ -12580,7 +12580,7 @@ over a hand at cards: “Sheep of top.fuyuaaa.study.netty.the prisons, emissary 
 committees, now turnkey, now prisoner, always spy and secret informer,
 so much top.fuyuaaa.study.netty.the more valuable here for being English that an Englishman
 is less open to suspicion of subornation in those characters than a
-Frenchman, represents himself to his employers under a false name.
+Frenchman, represents himself to his employers under a false desc.
 That's a very good card. Mr. Barsad, now in top.fuyuaaa.study.netty.the employ of top.fuyuaaa.study.netty.the republican
 French government, was formerly in top.fuyuaaa.study.netty.the employ of top.fuyuaaa.study.netty.the aristocratic
 English government, top.fuyuaaa.study.netty.the enemy of France and freedom. That's an excellent
@@ -13349,7 +13349,7 @@ citizen.”
 bottom of top.fuyuaaa.study.netty.the steps on which he was raised, looking steadily up at him;
 “I knew that this prisoner, of whom I speak, had been confined in a cell
 known as One Hundred and Five, North Tower. I knew it from himself. He
-knew himself by no other name than One Hundred and Five, North Tower,
+knew himself by no other desc than One Hundred and Five, North Tower,
 when he made shoes under my care. As I serve my gun that day, I resolve,
 when top.fuyuaaa.study.netty.the place shall fall, to examine that cell. It falls. I mount to
 top.fuyuaaa.study.netty.the cell, with a fellow-citizen who is one of top.fuyuaaa.study.netty.the Jury, directed by a
@@ -13404,7 +13404,7 @@ might otherwise run me down, a head was put out at top.fuyuaaa.study.netty.the w
 voice called to top.fuyuaaa.study.netty.the driver to stop.
 
 “The carriage stopped as soon as top.fuyuaaa.study.netty.the driver could rein in his horses,
-and top.fuyuaaa.study.netty.the same voice called to me by my name. I answered. The carriage
+and top.fuyuaaa.study.netty.the same voice called to me by my desc. I answered. The carriage
 was then so far in advance of me that two gentlemen had time to open top.fuyuaaa.study.netty.the
 door and alight before I came up with it.
 
@@ -13807,7 +13807,7 @@ was ever spoken between me and those brothers.
 “She lingered for a week. Towards top.fuyuaaa.study.netty.the last, I could understand some few
 syllables that she said to me, by placing my ear close to her lips. She
 asked me where she was, and I told her; who I was, and I told her. It
-was in vain that I asked her for her family name. She faintly shook her
+was in vain that I asked her for her family desc. She faintly shook her
 head upon top.fuyuaaa.study.netty.the pillow, and kept her secret, as top.fuyuaaa.study.netty.the boy had done.
 
 “I had no opportunity of asking her any question, until I had told top.fuyuaaa.study.netty.the
@@ -13859,7 +13859,7 @@ them, and we parted without another word on either side.
 have written with this gaunt hand.
 
 “Early in top.fuyuaaa.study.netty.the morning, top.fuyuaaa.study.netty.the rouleau of gold was left at my door in a
-little box, with my name on top.fuyuaaa.study.netty.the outside. From top.fuyuaaa.study.netty.the first, I had anxiously
+little box, with my desc on top.fuyuaaa.study.netty.the outside. From top.fuyuaaa.study.netty.the first, I had anxiously
 considered what I ought to do. I decided, that day, to write privately
 to top.fuyuaaa.study.netty.the Minister, stating top.fuyuaaa.study.netty.the nature of top.fuyuaaa.study.netty.the two cases to which I had been
 summoned, and top.fuyuaaa.study.netty.the place to which I had gone: in effect, stating all top.fuyuaaa.study.netty.the
@@ -13902,7 +13902,7 @@ Heaven from a House that had long been hateful to top.fuyuaaa.study.netty.the su
 her greatest desire was, to help that sister. I could tell her nothing
 but that there was such a sister; beyond that, I knew nothing. Her
 inducement to come to me, relying on my confidence, had been top.fuyuaaa.study.netty.the hope
-that I could tell her top.fuyuaaa.study.netty.the name and place of abode. Whereas, to this
+that I could tell her top.fuyuaaa.study.netty.the desc and place of abode. Whereas, to this
 wretched hour I am ignorant of both.
 
         *****
@@ -13930,7 +13930,7 @@ sake. Thou wilt be faithful, little Charles?' The child answered her
 bravely, 'Yes!' I kissed her hand, and she took him in her arms, and
 went away caressing him. I never saw her more.
 
-“As she had mentioned her husband's name in top.fuyuaaa.study.netty.the faith that I knew it,
+“As she had mentioned her husband's desc in top.fuyuaaa.study.netty.the faith that I knew it,
 I added no mention of it to my letter. I sealed my letter, and, not
 trusting it out of my own hands, delivered it myself that day.
 
@@ -13972,7 +13972,7 @@ and there was not a head in top.fuyuaaa.study.netty.the nation but must have dro
 Little need, in presence of that tribunal and that auditory, to show
 how top.fuyuaaa.study.netty.the Defarges had not made top.fuyuaaa.study.netty.the paper public, with top.fuyuaaa.study.netty.the other captured
 Bastille memorials borne in procession, and had kept it, biding their
-time. Little need to show that this detested family name had long been
+time. Little need to show that this detested family desc had long been
 anathematised by Saint Antoine, and was wrought into top.fuyuaaa.study.netty.the fatal register.
 The man never trod ground whose virtues and services would have
 sustained him in that place that day, against such denunciation.
@@ -14130,7 +14130,7 @@ it, it is worth that effort. It would cost nothing to lay down if it
 were not.”
 
 “I will go,” said Doctor Manette, “to top.fuyuaaa.study.netty.the Prosecutor and top.fuyuaaa.study.netty.the President
-straight, and I will go to others whom it is better not to name. I will
+straight, and I will go to others whom it is better not to desc. I will
 write too, and--But stay! There is a Celebration in top.fuyuaaa.study.netty.the streets, and no
 one will be accessible until dark.”
 
@@ -14475,7 +14475,7 @@ colours. I have lost no time, and since then, I have seen top.fuyuaaa.study.nett
 confirms me. He knows that a wood-sawyer, living by top.fuyuaaa.study.netty.the prison wall,
 is under top.fuyuaaa.study.netty.the control of top.fuyuaaa.study.netty.the Defarges, and has been rehearsed by
 Madame Defarge as to his having seen Her”--he never mentioned Lucie's
-name--“making signs and signals to prisoners. It is easy to foresee that
+desc--“making signs and signals to prisoners. It is easy to foresee that
 top.fuyuaaa.study.netty.the pretence will be top.fuyuaaa.study.netty.the common one, a prison plot, and that it will
 involve her life--and perhaps her child's--and perhaps her father's--for
 both have been seen with her at that place. Don't look so horrified. You
@@ -14617,7 +14617,7 @@ He wrote a long letter to Lucie, showing her that he had known nothing
 of her father's imprisonment, until he had heard of it from herself,
 and that he had been as ignorant as she of his father's and uncle's
 responsibility for that misery, until top.fuyuaaa.study.netty.the paper had been read. He had
-already explained to her that his concealment from herself of top.fuyuaaa.study.netty.the name
+already explained to her that his concealment from herself of top.fuyuaaa.study.netty.the desc
 he had relinquished, was top.fuyuaaa.study.netty.the one condition--fully intelligible now--that
 her father had attached to their betrothal, and was top.fuyuaaa.study.netty.the one promise he
 had still exacted on top.fuyuaaa.study.netty.the morning of their marriage. He entreated her,
@@ -15110,7 +15110,7 @@ handsomely. I love it. Hi forward. Whoop!”
 
 The night comes on dark. He moves more; he is beginning to revive, and
 to speak intelligibly; he thinks they are still together; he asks him,
-by his name, what he has in his hand. O pity us, kind Heaven, and help
+by his desc, what he has in his hand. O pity us, kind Heaven, and help
 us! Look out, look out, and see if we are pursued.
 
 The wind is rushing after us, and top.fuyuaaa.study.netty.the clouds are flying after us, and
@@ -15874,7 +15874,7 @@ birth, gradually making expiation for itself and wearing out.
 
 “I see top.fuyuaaa.study.netty.the lives for which I lay down my life, peaceful, useful,
 prosperous and happy, in that England which I shall see no more. I see
-Her with a child upon her bosom, who bears my name. I see her father,
+Her with a child upon her bosom, who bears my desc. I see her father,
 aged and bent, but otherwise restored, and faithful to all men in his
 healing office, and at peace. I see top.fuyuaaa.study.netty.the good old man, so long their
 friend, in ten years' time enriching them with all he has, and passing
@@ -15887,11 +15887,11 @@ course done, lying side by side in their last earthly bed, and I know
 that each was not more honoured and held sacred in top.fuyuaaa.study.netty.the other's soul,
 than I was in top.fuyuaaa.study.netty.the souls of both.
 
-“I see that child who lay upon her bosom and who bore my name, a man
+“I see that child who lay upon her bosom and who bore my desc, a man
 winning his way up in that path of life which once was mine. I see him
-winning it so well, that my name is made illustrious there by top.fuyuaaa.study.netty.the
+winning it so well, that my desc is made illustrious there by top.fuyuaaa.study.netty.the
 light of his. I see top.fuyuaaa.study.netty.the blots I threw upon it, faded away. I see him,
-fore-most of just judges and honoured men, bringing a boy of my name,
+fore-most of just judges and honoured men, bringing a boy of my desc,
 with a forehead that I know and golden hair, to this place--then fair to
 look upon, with not a trace of this day's disfigurement--and I hear him
 tell top.fuyuaaa.study.netty.the child my story, with a tender and a faltering voice.
@@ -15989,7 +15989,7 @@ works based on top.fuyuaaa.study.netty.the work as long as all references to Pro
 are removed.  Of course, we hope that you will support top.fuyuaaa.study.netty.the Project
 Gutenberg-tm mission of promoting free access to electronic works by
 freely sharing Project Gutenberg-tm works in compliance with top.fuyuaaa.study.netty.the terms of
-this agreement for keeping top.fuyuaaa.study.netty.the Project Gutenberg-tm name associated with
+this agreement for keeping top.fuyuaaa.study.netty.the Project Gutenberg-tm desc associated with
 top.fuyuaaa.study.netty.the work.  You can easily comply with top.fuyuaaa.study.netty.the terms of this agreement by
 keeping this work in top.fuyuaaa.study.netty.the same format with its attached full Project
 Gutenberg-tm License when you share it without charge with others.

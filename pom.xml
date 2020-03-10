@@ -27,5 +27,6 @@
         <module>springaaa</module>
         <module>sharding-sphere</module>
         <module>springboot-rabbitmq</module>
+        <module>http-log-analysis</module>
     </modules>
 </project>

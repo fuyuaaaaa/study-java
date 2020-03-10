@@ -8,7 +8,7 @@
 
     <!--配置JmsTemplate，用于发送消息-->
     <bean id="jmsTemplate" class="org.springframework.jms.core.JmsTemplate">
-        <property name="connectionFactory" ref="connectionFactory"/>
+        <property desc="connectionFactory" ref="connectionFactory"/>
     </bean>
 
     <bean class="top.fuyuaaa.jms.producer.ProducerServiceImpl"/>

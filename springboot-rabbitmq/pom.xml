@@ -11,7 +11,7 @@
     <groupId>top.fuyuaaa</groupId>
     <artifactId>springboot-rabbitmq</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot-rabbitmq</name>
+    <desc>springboot-rabbitmq</desc>
     <description>Demo project for Spring Boot</description>
 
     <properties>
