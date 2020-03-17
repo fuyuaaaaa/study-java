@@ -20,13 +20,12 @@
         </plugins>
     </build>
     <modules>
+        <module>http-log-analysis</module>
         <module>java-basic</module>
         <module>jms-spring</module>
         <module>jms-demo</module>
         <module>dubbo-demo</module>
-        <module>springaaa</module>
         <module>sharding-sphere</module>
         <module>springboot-rabbitmq</module>
-        <module>http-log-analysis</module>
     </modules>
 </project>
