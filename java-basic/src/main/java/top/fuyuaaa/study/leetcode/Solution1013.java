@@ -25,12 +25,12 @@ public class Solution1013 {
         int partNum = 0;
         for (int i = 0; i < A.length; i++) {
             now += A[i];
-            if (now == part && (partNum != 2 || i == A.length - 1)) {
+            if (now == part) {
                 now = 0;
                 partNum++;
             }
         }
-        if (partNum == 3) {
+        if (partNum >= 3) {
             return true;
         }
         return false;
