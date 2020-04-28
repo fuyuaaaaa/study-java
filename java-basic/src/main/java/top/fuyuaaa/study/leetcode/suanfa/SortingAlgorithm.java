@@ -98,6 +98,44 @@ public class SortingAlgorithm {
     }
 
 
+    public void heapSort(int[] array) {
+
+        for (int i = 0; i < array.length; i++) {
+            heapInsert(array, i);
+        }
+
+        int size = array.length;
+        swap(array, 0, --size);
+        while (size > 0) {
+            heapify(array, 0, size);
+            swap(array, 0, --size);
+        }
+
+    }
+
+    private void heapInsert(int[] array, int index) {
+        //(index-1)/2 -> 父节点的index
+        while (array[index] > array[(index - 1) / 2]) {
+            swap(array, index, (index - 1) / 2);
+            index = (index - 1) / 2;
+        }
+    }
+
+    private void heapify(int[] array, int index, int size) {
+        int left = index << 1 + 1;
+        while (left < size) {
+            int largest = left + 1 < size && array[left] < array[left + 1] ? left + 1 : left;
+            largest = array[index] > array[largest] ? index : largest;
+            if (largest == index) {
+                return;
+            }
+            swap(array, largest, index);
+            index = largest;
+            left = index << 1 + 1;
+        }
+    }
+
+
     public static void main(String[] args) {
         SortingAlgorithm sortingAlgorithm = new SortingAlgorithm();
         int[] array = new int[]{4, 3, 2, 1};
@@ -117,6 +155,11 @@ public class SortingAlgorithm {
 
         array = new int[]{4, 3, 2, 1};
         sortingAlgorithm.mergeSort(array);
+        System.out.println(JSONObject.toJSONString(array));
+
+
+        array = new int[]{4, 3, 2, 1};
+        sortingAlgorithm.heapSort(array);
         System.out.println(JSONObject.toJSONString(array));
     }
 }
