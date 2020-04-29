@@ -161,5 +161,55 @@ public class SortingAlgorithm {
         array = new int[]{4, 3, 2, 1};
         sortingAlgorithm.heapSort(array);
         System.out.println(JSONObject.toJSONString(array));
+
+        array = new int[]{9, 8, 7, 6, 5, 4, 3, 2, 1};
+        sortingAlgorithm.quickSort(array, 0, array.length - 1);
+        System.out.println(JSONObject.toJSONString(array));
+
+
     }
+
+
+    //==========$华丽分隔符$========== quick sourt ==========$华丽分隔符$==========
+
+    public void quickSort(int[] array) {
+        if (array.length <= 1) {
+            return;
+        }
+        quickSort(array, 0, array.length - 1);
+    }
+
+    public void quickSort(int[] array, int left, int right) {
+        if (left < right) {
+            int radom = (int) (Math.random() * (right - left + 1));
+            swap(array, left + radom, right);
+            int[] result = partition(array, left, right);
+            quickSort(array, 0, result[0] - 1);
+            quickSort(array, result[1] + 1, right);
+        }
+
+    }
+
+    public int[] partition(int[] array, int left, int right) {
+        int midValue = array[right];
+        //左部分右边界初始值
+        int less = left - 1;
+        //右部分左边界初始值
+        int more = right;
+
+        while (left < more) {
+            if (array[left] < midValue) {
+                swap(array, ++less, left++);
+            } else if (array[left] > midValue) {
+                swap(array, --more, left);
+            } else {
+                left++;
+            }
+        }
+        swap(array, more, right);
+
+        //返回的是中间区域的左右边界。
+        return new int[]{less + 1, more};
+    }
+
 }
