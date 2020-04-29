@@ -16,7 +16,7 @@ public class DeadLockDemo {
             public void run(){
                 synchronized (sb1){
                     try {
-                        Thread.currentThread().sleep(10);
+                        sleep(10);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
