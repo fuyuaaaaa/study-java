@@ -1,7 +1,9 @@
-package top.fuyuaaa.study.thread.aqssources;
+package top.fuyuaaa.study.thread.Lock;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
+import java.util.Collection;
+import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 import java.util.concurrent.locks.Condition;
@@ -13,26 +15,55 @@ import java.util.concurrent.locks.Lock;
  */
 public class Mutex implements Lock, java.io.Serializable {
 
-    // Our internal helper class
+    public static void main(String[] args) throws InterruptedException {
+        Mutex mutex = new Mutex();
+        CountDownLatch countDownLatch = new CountDownLatch(5);
+        for (int i = 0; i < 5; i++) {
+            new  Thread(()->{
+                System.out.println(Thread.currentThread().getId() + " 等待获取锁");
+                mutex.lock();
+                System.out.println(Thread.currentThread().getId() + " 获取到锁");
+                try {
+                    Thread.sleep(2000);
+                    Collection<Thread> queuedThreads = mutex.getQueuedThreads();
+                    //输出等待队列中的线程
+                    System.out.print("等待队列的线程");
+                    queuedThreads.forEach(thread -> System.out.print(thread.getId() + " "));
+                    System.out.println();
+                }catch (InterruptedException e){
+
+                } finally{
+                    mutex.unlock();
+                    countDownLatch.countDown();
+                }
+            }).start();
+
+        }
+        countDownLatch.await();
+        System.out.println("执行结束");
+    }
+
+    // 静态内部类，自定义同步器
     private static class Sync extends AbstractQueuedSynchronizer {
-        // Reports whether in locked state
+        // 是否处于占用状态
         @Override
         protected boolean isHeldExclusively() {
             return getState() == 1;
         }
 
-        // Acquires top.fuyuaaa.study.netty.the lock if state is zero
+        // 当状态为0的时候获取锁
         @Override
         public boolean tryAcquire(int acquires) {
             assert acquires == 1; // Otherwise unused
             if (compareAndSetState(0, 1)) {
+                // 设置当前线程为独占锁的拥有者
                 setExclusiveOwnerThread(Thread.currentThread());
                 return true;
             }
             return false;
         }
 
-        // Releases top.fuyuaaa.study.netty.the lock by setting state to zero
+        // 释放锁，将锁的状态设置为0
         @Override
         protected boolean tryRelease(int releases) {
             assert releases == 1; // Otherwise unused
@@ -57,7 +88,7 @@ public class Mutex implements Lock, java.io.Serializable {
         }
     }
 
-    // The sync object does all top.fuyuaaa.study.netty.the hard work. We just forward to it.
+    // 讲操作代理到Sync
     private final Sync sync = new Sync();
 
     @Override
@@ -86,6 +117,10 @@ public class Mutex implements Lock, java.io.Serializable {
 
     public boolean hasQueuedThreads() {
         return sync.hasQueuedThreads();
+    }
+
+    public Collection<Thread> getQueuedThreads(){
+        return sync.getQueuedThreads();
     }
 
     @Override
