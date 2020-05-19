@@ -1,5 +1,6 @@
 package top.fuyuaaa.study.basic.reflect;
 
+import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 import java.lang.reflect.Parameter;
@@ -34,9 +35,25 @@ public class ReflectTest {
     String defaultParam;
 
     @Test
-    public void testGetClassInfo() throws NoSuchFieldException, NoSuchMethodException {
+    public void testGetClassInfo() throws Exception {
 
         Class<ReflectTest> reflectTestClass = ReflectTest.class;
+        //全限定名top.fuyuaaa.study.basic.reflect.ReflectTest
+        String className = reflectTestClass.getName();
+        //类名ReflectTest
+        String classSimpleName = reflectTestClass.getSimpleName();
+        //通过class创建对象
+        ReflectTest reflectTest = reflectTestClass.newInstance();
+
+
+        //全部构造方法
+        Constructor<?>[] constructors = reflectTestClass.getConstructors();
+        //获取指定参数的构造方法
+        Constructor<ReflectTest> constructor = reflectTestClass.getConstructor();
+        //通过构造方法创建对象
+        reflectTest = constructor.newInstance();
+
+
         //获取所有属性
         Field[] declaredFields = reflectTestClass.getDeclaredFields();
         //获取public属性
@@ -52,6 +69,8 @@ public class ReflectTest {
         Class<?> returnType = method.getReturnType();
         //获取方法抛出异常类型
         Class<?>[] exceptionTypes = method.getExceptionTypes();
+        //获取方法的参数类型数组
+        Class<?>[] parameterTypes = method.getParameterTypes();
 
 
         Method setPrivateParam = reflectTestClass.getDeclaredMethod("setPrivateParam", String.class);
@@ -62,6 +81,7 @@ public class ReflectTest {
         String name = parameter.getName();
         //获取参数类型
         Class<?> type = parameter.getType();
+
 
     }
 
@@ -158,7 +178,7 @@ public class ReflectTest {
     @Setter
     private final String testFinalThree = null == null ? "code" : "";
     //这样写不行，基本类型会被计算
-//    private final String testFinalThree = 1 == 1 ? "code" : "";
+//    private final String testFinalThree2 = 1 == 1 ? "code" : "";
 
 
     public String showTestFinalThree() {
@@ -166,7 +186,7 @@ public class ReflectTest {
     }
 
     @Test
-    public void testOperateFinalAttributes() throws Exception {
+    public void testOperateFinalAttributesThree() throws Exception {
         ReflectTest reflectTest = new ReflectTest();
         Class<? extends ReflectTest> reflectTestClass = reflectTest.getClass();
 
