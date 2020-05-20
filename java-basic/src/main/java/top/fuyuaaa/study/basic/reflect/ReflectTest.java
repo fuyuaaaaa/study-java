@@ -34,30 +34,68 @@ public class ReflectTest {
     @Setter
     String defaultParam;
 
-    @Test
-    public void testGetClassInfo() throws Exception {
 
+    @Test
+    public void testGetClass() throws Exception {
+        //获取class
         Class<ReflectTest> reflectTestClass = ReflectTest.class;
-        //全限定名top.fuyuaaa.study.basic.reflect.ReflectTest
-        String className = reflectTestClass.getName();
-        //类名ReflectTest
-        String classSimpleName = reflectTestClass.getSimpleName();
+        //通过类名获取class
+        reflectTestClass = (Class<ReflectTest>) Class.forName("top.fuyuaaa.study.basic.reflect.ReflectTest");
+        //通过对象获取class
+        reflectTestClass = (Class<ReflectTest>) reflectTestClass.newInstance().getClass();
         //通过class创建对象
         ReflectTest reflectTest = reflectTestClass.newInstance();
+    }
+
+    @Test
+    public void testOperateClass() throws Exception {
+        //获取class
+        Class<ReflectTest> reflectTestClass = ReflectTest.class;
 
 
-        //全部构造方法
+        //获取全限定名top.fuyuaaa.study.basic.reflect.ReflectTest
+        String className = reflectTestClass.getName();
+        //获取类名ReflectTest
+        String classSimpleName = reflectTestClass.getSimpleName();
+        //获取实现的接口
+        Class<?>[] interfaces = reflectTestClass.getInterfaces();
+        //获取父类, 没有父类默认是Object.class
+        Class<? super ReflectTest> superclass = reflectTestClass.getSuperclass();
+
+
+        //获取所有构造方法
+        Constructor<?>[] declaredConstructors = reflectTestClass.getDeclaredConstructors();
+        //获取指定参数的构造方法(不管啥修饰的)
+        Constructor<ReflectTest> declaredConstructor = reflectTestClass.getDeclaredConstructor();
+
+
+        //获取所有 公共 构造方法
         Constructor<?>[] constructors = reflectTestClass.getConstructors();
-        //获取指定参数的构造方法
+        //获取指定参数的 公共 构造方法(onlt public)
         Constructor<ReflectTest> constructor = reflectTestClass.getConstructor();
+
+
         //通过构造方法创建对象
-        reflectTest = constructor.newInstance();
+        ReflectTest reflectTest = constructor.newInstance();
+    }
+
+    @Test
+    public void testGetAndOperateField() {
+        //获取class
+        Class<ReflectTest> reflectTestClass = ReflectTest.class;
 
 
         //获取所有属性
         Field[] declaredFields = reflectTestClass.getDeclaredFields();
         //获取public属性
         Field[] field = declaredFields = reflectTestClass.getFields();
+
+    }
+
+    @Test
+    public void testGetAndOperateMethodAndParam() throws Exception {
+        //获取class
+        Class<ReflectTest> reflectTestClass = ReflectTest.class;
 
 
         //获取所有方法(子类所有)
@@ -81,10 +119,7 @@ public class ReflectTest {
         String name = parameter.getName();
         //获取参数类型
         Class<?> type = parameter.getType();
-
-
     }
-
 
     private String testOperatePrivateMethod(String arg1, String arg2) {
         return arg1 + "&" + arg2;
@@ -153,9 +188,11 @@ public class ReflectTest {
     public ReflectTest() {
         testFinalTwo = "code";
     }
+
     public String showTestFinalTwo() {
         return testFinalTwo;
     }
+
     @Test
     public void testOperateFinalAttributesTwo() throws Exception {
         ReflectTest reflectTest = new ReflectTest();
@@ -198,18 +235,6 @@ public class ReflectTest {
         //输出code
         System.out.println(reflectTest.showTestFinalThree());
     }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 }
