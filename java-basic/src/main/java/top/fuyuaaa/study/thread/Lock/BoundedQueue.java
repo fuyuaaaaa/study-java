@@ -1,12 +1,14 @@
-package top.fuyuaaa.study.thread.aqssources;
+package top.fuyuaaa.study.thread.Lock;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
+ * 有界队列
+ *
  * @author: fuyuaaa
- * @creat: 2019-02-18 14:29
+ * @create: 2019-02-18 14:29
  */
 public class BoundedQueue<T> {
     private Object[] items;
@@ -17,12 +19,14 @@ public class BoundedQueue<T> {
     private Lock lock = new ReentrantLock();
     private Condition notEmpty = lock.newCondition();
     private Condition notFull = lock.newCondition();
+
     public BoundedQueue(int size) {
         items = new Object[size];
     }
 
     /**
      * 添加一个元素，如果数组满，则添加线程进入等待状态，直到有"空位"
+     *
      * @param t
      * @throws InterruptedException
      */
@@ -45,6 +49,7 @@ public class BoundedQueue<T> {
 
     /**
      * 由头部删除一个元素，如果数组空，则删除线程进入等待状态，直到有新添加元素
+     *
      * @return
      * @throws InterruptedException
      */

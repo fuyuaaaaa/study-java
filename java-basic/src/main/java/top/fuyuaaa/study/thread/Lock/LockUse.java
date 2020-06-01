@@ -4,6 +4,7 @@ import org.checkerframework.checker.units.qual.C;
 import org.junit.jupiter.api.Test;
 
 import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
@@ -68,7 +69,7 @@ public class LockUse {
         }
 
         for (int i = 0; i < 2; i++) {
-             new Thread(() -> {
+            new Thread(() -> {
                 writeLock.lock();
                 try {
                     System.out.println(Thread.currentThread().getId() + " 获取到写锁");
@@ -80,6 +81,41 @@ public class LockUse {
                 }
             }).start();
         }
+        countDownLatch.await();
+    }
+
+    @Test
+    public void conditionUse() throws InterruptedException {
+        Lock lock = new ReentrantLock();
+        Condition condition = lock.newCondition();
+
+        CountDownLatch countDownLatch = new CountDownLatch(2);
+
+        new Thread(() -> {
+            try {
+                lock.lock();
+                System.out.println("线程1被阻塞");
+                //会释放锁的
+                condition.await();
+                System.out.println("线程1被唤醒");
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            } finally {
+                lock.unlock();
+                countDownLatch.countDown();
+            }
+        }).start();
+
+        Thread.sleep(1000);
+
+        new Thread(() -> {
+            lock.lock();
+            condition.signal();
+            System.out.println("线程2尝试唤醒线程1");
+            countDownLatch.countDown();
+            lock.unlock();
+        }).start();
+
         countDownLatch.await();
     }
 }
