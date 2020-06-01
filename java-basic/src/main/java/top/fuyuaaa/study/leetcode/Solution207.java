@@ -2,6 +2,8 @@ package top.fuyuaaa.study.leetcode;
 
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.Queue;
 
 /**
  * 你这个学期必须选修 numCourse 门课程，记为 0 到 numCourse-1 。
@@ -51,9 +53,34 @@ public class Solution207 {
             graph.get(prerequisite[0]).add(prerequisite[1]);
         }
 
+
+        //学习课程，入度为0为可学
+        Queue<Integer> queue = new LinkedList<>();
+        //找出入度为0的, 加到队列里
+        for (int i = 0; i < numCourses; i++) {
+            if (inDegrees[i] == 0) {
+                queue.add(i);
+            }
+        }
+
+        //统计学过的课
         HashSet<Integer> hasStudy = new HashSet<>(numCourses * 4 / 3 + 1);
 
+        //从队列取元素, 减少元素的出元素 对应的入度。
+        while (!queue.isEmpty()) {
+            Integer poll = queue.poll();
+            hasStudy.add(poll);
+            HashSet<Integer> out = graph.get(poll);
+            for (int o : out) {
+                //out的入度-1
+                inDegrees[o]--;
+                //如果=0，说明这个课可以学了，加到队列
+                if (inDegrees[o] == 0) {
+                    queue.add(o);
+                }
+            }
+        }
 
-        return false;
+        return hasStudy.size() == numCourses;
     }
 }
