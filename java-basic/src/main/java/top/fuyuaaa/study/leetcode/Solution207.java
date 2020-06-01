@@ -55,7 +55,7 @@ public class Solution207 {
 
 
         //学习课程，入度为0为可学
-        Queue<Integer> queue  = new LinkedList<>();
+        Queue<Integer> queue = new LinkedList<>();
         //找出入度为0的, 加到队列里
         for (int i = 0; i < numCourses; i++) {
             if (inDegrees[i] == 0) {
@@ -66,12 +66,12 @@ public class Solution207 {
         //统计学过的课
         HashSet<Integer> hasStudy = new HashSet<>(numCourses * 4 / 3 + 1);
 
-        //从队列取元素, 减少元素的出元素 对应的入度。h
+        //从队列取元素, 减少元素的出元素 对应的入度。
         while (!queue.isEmpty()) {
             Integer poll = queue.poll();
             hasStudy.add(poll);
             HashSet<Integer> out = graph.get(poll);
-            for(int o: out) {
+            for (int o : out) {
                 //out的入度-1
                 inDegrees[o]--;
                 //如果=0，说明这个课可以学了，加到队列
