@@ -65,6 +65,83 @@ public class ManacherAlgorithm {
         System.out.println(manacherAlgorithm.manacherAlgorithm("abcba"));
         System.out.println(manacherAlgorithm.manacherAlgorithm(""));
         System.out.println(manacherAlgorithm.manacherAlgorithm("cbbd"));
+
+        System.out.println();
+
+        System.out.println(manacherAlgorithm.manacherAlgorithm2("aacecaaa"));
+        System.out.println(manacherAlgorithm.manacherAlgorithm2("abcd"));
+    }
+
+    
+    /**
+     * 214. 最短回文串
+     * 给定一个字符串 s，你可以通过在字符串前面添加字符将其转换为回文串。找到并返回可以用这种方式转换的最短回文串。
+     *
+     * 示例 1:
+     *
+     * 输入: "aacecaaa"
+     * 输出: "aaacecaaa"
+     * 示例 2:
+     *
+     * 输入: "abcd"
+     * 输出: "dcbabcd"
+     *
+     * 来源：力扣（LeetCode）
+     * 链接：https://leetcode-cn.com/problems/shortest-palindrome
+     * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+     *
+     *
+     * 先翻转，在用manacher
+     */
+    public String manacherAlgorithm2(String s) {
+
+
+        if (s == null || s.length() == 0) {
+            return "";
+        }
+
+        StringBuilder sb = new StringBuilder();
+        sb.append("$");
+        for (int i = 0; i < s.length(); i++) {
+            sb.append("#" + s.charAt(i));
+        }
+        sb.append("#^");
+        //反转
+        sb = sb.reverse();
+
+        int n = sb.length();
+        int[] p = new int[n];
+        int c = 0, r = 0;
+        for (int i = 1; i < n - 1; i++) {
+            int i_mimir = 2 * c - i;
+
+            if (r > i) {
+                p[i] = Math.min(r - i, p[i_mimir]);
+            } else {
+                p[i] = 0;
+            }
+
+            while (sb.charAt(i + 1 + p[i]) == sb.charAt(i - 1 - p[i])) {
+                p[i]++;
+            }
+
+            if (i + p[i] > r) {
+                r = i + p[i];
+                c = i;
+            }
+
+            if (r >= sb.length() - 1) {
+                break;
+            }
+        }
+
+        String result = sb.toString().replaceAll("#", "").replaceAll("\\^", "").replaceAll("\\$", "");
+
+        int start = (c - (r - c)) / 2;
+        for (int i = start - 1; i >= 0; i--) {
+            result += result.charAt(i);
+        }
+        return result;
     }
 
     public String manacherAlgorithm(String s) {
