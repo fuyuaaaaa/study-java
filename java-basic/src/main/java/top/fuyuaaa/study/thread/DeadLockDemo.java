@@ -7,39 +7,38 @@ package top.fuyuaaa.study.thread;
  * @creat: 2018-10-31 14:46
  **/
 public class DeadLockDemo {
-    static StringBuffer sb1 = new StringBuffer();
-    static StringBuffer sb2 = new StringBuffer();
+    private static Object resource1 = new Object();
+    private static Object resource2 = new Object();
 
-    public static void main(String[] args){
 
-        new Thread(){
-            public void run(){
-                synchronized (sb1){
-                    try {
-                        sleep(10);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
-                    sb1.append("A");
-                    synchronized (sb2){
-                        sb2.append("B");
-                        System.out.println(sb1);
-                        System.out.println(sb2);
-                    }
+    public static void main (String[] args){
+        new Thread(()->{
+            synchronized(resource1) {
+                try {
+                    Thread.sleep(1000);
+                } catch( Exception e) {
+
+                }
+                System.out.println("===");
+                synchronized(resource2) {
+
                 }
             }
-        }.start();
-        new Thread(){
-            public void run(){
-                synchronized (sb2){
-                    sb1.append("C");
-                    synchronized (sb1){
-                        sb2.append("D");
-                        System.out.println(sb1);
-                        System.out.println(sb2);
-                    }
+        }).start();
+
+        new Thread(()->{
+            synchronized(resource2) {
+                try {
+                    Thread.sleep(1000);
+                } catch( Exception e) {
+
+                }
+                System.out.println("===");
+                synchronized(resource1) {
+
                 }
             }
-        }.start();
+        }).start();
+
     }
 }

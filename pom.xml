@@ -28,5 +28,7 @@
         <module>sharding-sphere</module>
         <module>springboot-rabbitmq</module>
         <module>mybatis</module>
+        <module>rocketmq</module>
+        <module>kafka</module>
     </modules>
 </project>
