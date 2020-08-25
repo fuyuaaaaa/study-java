@@ -30,5 +30,6 @@
         <module>mybatis</module>
         <module>rocketmq</module>
         <module>kafka</module>
+        <module>NettyPro</module>
     </modules>
 </project>
