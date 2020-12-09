@@ -12,6 +12,7 @@
         <module>api</module>
         <module>provider</module>
         <module>consumer</module>
+        <module>spi-demo</module>
     </modules>
 
     <properties>
@@ -20,9 +21,24 @@
 
     <dependencies>
         <dependency>
+            <groupId>io.netty</groupId>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.49.Final</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.curator</groupId>
+            <artifactId>curator-framework</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.curator</groupId>
+            <artifactId>curator-recipes</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+        <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>dubbo</artifactId>
-            <version>2.5.3</version>
+            <version>2.6.9</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.springframework</groupId>

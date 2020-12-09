@@ -49,4 +49,9 @@ public class KMP {
         return next;
 
     }
+
+    public static void main(String[] args) {
+        StringBuilder stringBuilder = new StringBuilder();
+        stringBuilder.deleteCharAt(stringBuilder.length()-1);
+    }
 }

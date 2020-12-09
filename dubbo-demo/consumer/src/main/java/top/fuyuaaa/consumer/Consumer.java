@@ -8,7 +8,7 @@ import top.fuyuaaa.api.TestService;
  * @creat: 2018-12-12 23:33
  */
 public class Consumer {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(new String[]{"/dubbo-demo-consumer.xml"});
         context.start();
         TestService testService = (TestService) context.getBean("testService");

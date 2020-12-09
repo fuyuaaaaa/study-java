@@ -5,6 +5,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.EnumMap;
 import java.util.concurrent.atomic.AtomicInteger;
+
 import lombok.Getter;
 
 /**
