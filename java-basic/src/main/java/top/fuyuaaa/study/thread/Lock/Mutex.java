@@ -13,7 +13,7 @@ import java.util.concurrent.locks.Lock;
  * @author: fuyuaaa
  * @creat: 2019-02-15 11:00
  */
-public class Mutex implements Lock, java.io.Serializable {
+public class Mutex implements Lock {
 
     public static void main(String[] args) throws InterruptedException {
         Mutex mutex = new Mutex();
@@ -30,7 +30,7 @@ public class Mutex implements Lock, java.io.Serializable {
                     System.out.print("等待队列的线程");
                     queuedThreads.forEach(thread -> System.out.print(thread.getId() + " "));
                     System.out.println();
-                }catch (InterruptedException e){
+                } catch (InterruptedException e){
 
                 } finally{
                     mutex.unlock();
@@ -45,6 +45,9 @@ public class Mutex implements Lock, java.io.Serializable {
 
     // 静态内部类，自定义同步器
     private static class Sync extends AbstractQueuedSynchronizer {
+
+        private static final long serialVersionUID = 6604094199071131476L;
+
         // 是否处于占用状态
         @Override
         protected boolean isHeldExclusively() {
