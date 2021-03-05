@@ -39,7 +39,6 @@
         <module>jms-spring</module>
         <module>jms-demo</module>
         <module>dubbo-demo</module>
-        <module>sharding-sphere</module>
         <module>springboot-rabbitmq</module>
         <module>mybatis</module>
         <module>rocketmq</module>
